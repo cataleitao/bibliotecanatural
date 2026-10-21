@@ -21,6 +21,69 @@
  },
  "colecoes": [
   {
+   "slug": "colecao-montanha-magica",
+   "titulo": "Colecção Montanha Mágica",
+   "data": "2026-04-11",
+   "capa": "mm/BN-CatarinaLeitao-M-Caramulo.jpg",
+   "texto": [
+    "A Coleção Montanha Mágica reúne cinco cadernos de campo feitos no contexto da residência artística White Box, no Museu do Caramulo, e que pertencem agora à coleção do museu.",
+    "The Magic Mountain Collection brings together five field notebooks made during the White Box artist residency at the Museu do Caramulo. They now belong to the museum's collection."
+   ],
+   "imagens": [
+    {
+     "ficheiro": "mm/2026-BN-MM-CC01-A.jpg",
+     "legenda": "Caderno de Campo I, 2026",
+     "descricao": "Livro, 1 fólio, técnica mista, capa dura revestida em tecido, 19,5x14 cm (fechado).<br><span lang=\"en\">Single folio book, mixed media, cloth-bound hardcover, 19.5x14 cm (closed).</span>"
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC01-B.jpg",
+     "legenda": "Caderno de Campo I, 2026",
+     "descricao": "Livro, 1 fólio, técnica mista, capa dura revestida em tecido, 19,5x14 cm (fechado).<br><span lang=\"en\">Single folio book, mixed media, cloth-bound hardcover, 19.5x14 cm (closed).</span>"
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC02-A.jpg",
+     "legenda": "Caderno de Campo II, 2026",
+     "descricao": "Livro, 1 fólio, técnica mista, capa dura revestida em tecido, 18,5x12,5 cm (fechado).<br><span lang=\"en\">Single folio book, mixed media, cloth-bound hardcover, 18.5x12.5 cm (closed).</span>"
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC02-B.jpg",
+     "legenda": "Caderno de Campo II, 2026",
+     "descricao": "Livro, 1 fólio, técnica mista, capa dura revestida em tecido, 18,5x12,5 cm (fechado).<br><span lang=\"en\">Single folio book, mixed media, cloth-bound hardcover, 18.5x12.5 cm (closed).</span>"
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC03-A.jpg",
+     "legenda": "Caderno de Campo III, 2026",
+     "descricao": "Livro, 1 fólio, técnica mista, capa dura revestida em tecido, 25x12,5 cm (fechado).<br><span lang=\"en\">Single folio book, mixed media, cloth-bound hardcover, 25x12.5 cm (closed).</span>"
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC03-B.jpg",
+     "legenda": "Caderno de Campo III, 2026",
+     "descricao": "Livro, 1 fólio, técnica mista, capa dura revestida em tecido, 25x12,5 cm (fechado).<br><span lang=\"en\">Single folio book, mixed media, cloth-bound hardcover, 25x12.5 cm (closed).</span>"
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC04-A.jpg",
+     "legenda": "Caderno de Campo IV, 2026",
+     "descricao": "Livro, 1 fólio, técnica mista, capa dura revestida em tecido, 25x13 cm (fechado).<br><span lang=\"en\">Single folio book, mixed media, cloth-bound hardcover, 25x13 cm (closed).</span>"
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC04-B.jpg",
+     "legenda": "Caderno de Campo IV, 2026",
+     "descricao": "Livro, 1 fólio, técnica mista, capa dura revestida em tecido, 25x13 cm (fechado).<br><span lang=\"en\">Single folio book, mixed media, cloth-bound hardcover, 25x13 cm (closed).</span>"
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC05-A.jpg",
+     "legenda": "Caderno de Campo V, 2026",
+     "descricao": "Livro, 1 fólio, técnica mista, capa dura revestida em tecido, 20x14 cm (fechado).<br><span lang=\"en\">Single folio book, mixed media, cloth-bound hardcover, 20x14 cm (closed).</span>"
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC05-B.jpg",
+     "legenda": "Caderno de Campo V, 2026",
+     "descricao": "Livro, 1 fólio, técnica mista, capa dura revestida em tecido, 20x14 cm (fechado).<br><span lang=\"en\">Single folio book, mixed media, cloth-bound hardcover, 20x14 cm (closed).</span>"
+    }
+   ],
+   "antigo": null
+  },
+  {
    "slug": "colecao-survival-systems",
    "titulo": "Colecção Survival Systems",
    "data": "2025-05-14",
@@ -32,47 +95,47 @@
     {
      "ficheiro": "2021-BN-SSa-B.jpg",
      "legenda": "Survival Systems A",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela s/ papel, capa dura com revestimento tecido, 19,5x15,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor on paper, cloth-bound hardcover, 19.5x15.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-SSa-A.jpg",
      "legenda": "Survival Systems A",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela s/ papel, capa dura com revestimento tecido, 19,5x15,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor on paper, cloth-bound hardcover, 19.5x15.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-SSa-D.jpg",
      "legenda": "Survival Systems A",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela s/ papel, capa dura com revestimento tecido, 19,5x15,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor on paper, cloth-bound hardcover, 19.5x15.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-SSc-B.jpg",
      "legenda": "Survival Systems C",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela s/ papel, capa dura com revestimento tecido, 19,5x21,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor on paper, cloth-bound hardcover, 19.5x21.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-SSc-A.jpg",
      "legenda": "Survival Systems C",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela s/ papel, capa dura com revestimento tecido, 19,5x21,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor on paper, cloth-bound hardcover, 19.5x21.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-SSc-C.jpg",
      "legenda": "Survival Systems C",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela s/ papel, capa dura com revestimento tecido, 19,5x21,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor on paper, cloth-bound hardcover, 19.5x21.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-SSb-B.jpg",
      "legenda": "Survival Systems B",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela s/ papel, capa dura com revestimento tecido, 19,5x21 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor on paper, cloth-bound hardcover, 19.5x21 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-SSb-A.jpg",
      "legenda": "Survival Systems B",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela s/ papel, capa dura com revestimento tecido, 19,5x21 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor on paper, cloth-bound hardcover, 19.5x21 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-SSb-C_1.jpg",
      "legenda": "Survival Systems B",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela s/ papel, capa dura com revestimento tecido, 19,5x21 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor on paper, cloth-bound hardcover, 19.5x21 cm (closed). Signed and dated.</span>"
     }
    ],
    "antigo": "portfolio/coleccao-survival-systems"
@@ -89,62 +152,62 @@
     {
      "ficheiro": "2021-BN-Botanica21d-B.jpg",
      "legenda": "Botânica XXI d.",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 17x11 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 17x11 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Botanica21d-A.jpg",
      "legenda": "Botânica XXI d.",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 17x11 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 17x11 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Botanica21d-C.jpg",
      "legenda": "Botânica XXI d.",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 17x11 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 17x11 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Botanica21e-B.jpg",
      "legenda": "Botânica XXI e.",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 25,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 25.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Botanica21e-A.jpg",
      "legenda": "Botânica XXI e.",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 25,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 25.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Botanica21e-C.jpg",
      "legenda": "Botânica XXI e.",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 25,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 25.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Botanica21c-B.jpg",
      "legenda": "Botânica XXI c.",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19x13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19x13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Botanica21c-A.jpg",
      "legenda": "Botânica XXI c.",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19x13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19x13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Botanica21c-D.jpg",
-     "legenda": "Botânica XXI e.",
-     "descricao": ""
+     "legenda": "Botânica XXI c.",
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19x13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19x13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Botanica21a-B.jpg",
      "legenda": "Botânica XXI a.",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 16x13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 16x13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Botanica21a-A-.jpg",
      "legenda": "Botânica XXI a.",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 16x13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 16x13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Botanica21a-C.jpg",
      "legenda": "Botânica XXI a.",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 16x13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 16x13 cm (closed). Signed and dated.</span>"
     }
    ],
    "antigo": "portfolio/coleccao-plantae"
@@ -159,257 +222,257 @@
     {
      "ficheiro": "2021-BN-Livro17-B.jpg",
      "legenda": "Livro XVII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 22,5x10,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 22.5x10.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro17-A.jpg",
      "legenda": "Livro XVII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 22,5x10,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 22.5x10.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro17-C.jpg",
      "legenda": "Livro XVII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 22,5x10,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 22.5x10.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro2-B.jpg",
      "legenda": "Livro II, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 21,5x9,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 21.5x9.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro2-A.jpg",
      "legenda": "Livro II, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 21,5x9,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 21.5x9.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro2-C.jpg",
      "legenda": "Livro II, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 21,5x9,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 21.5x9.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro3-B.jpg",
      "legenda": "Livro III, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 26x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 26x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro3-A.jpg",
      "legenda": "Livro III, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 26x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 26x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro3-C.jpg",
      "legenda": "Livro III, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 26x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 26x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro1-B.jpg",
      "legenda": "Livro I, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16,5x12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16.5x12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro1-A.jpg",
      "legenda": "Livro I, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16,5x12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16.5x12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro1-C.jpg",
      "legenda": "Livro I, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16,5x12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16.5x12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro7-B.jpg",
      "legenda": "Livro VII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 22x10,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 22x10.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro7-A.jpg",
      "legenda": "Livro VII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 22x10,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 22x10.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro7-D.jpg",
      "legenda": "Livro VII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 22x10,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 22x10.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro8-B.jpg",
      "legenda": "Livro VIII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 16x10,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 16x10.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro8-A.jpg",
      "legenda": "Livro VIII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 16x10,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 16x10.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro8-C.jpg",
      "legenda": "Livro VIII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 16x10,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 16x10.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro4-B-2.jpg",
      "legenda": "Livro IV, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 17x13,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 17x13.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro4-A.jpg",
      "legenda": "Livro IV, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 17x13,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 17x13.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro4-C.jpg",
      "legenda": "Livro IV, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 17x13,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 17x13.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro10-B.jpg",
      "legenda": "Livro X, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 18,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 18.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro10-A.jpg",
      "legenda": "Livro X, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 18,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 18.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro10-D.jpg",
      "legenda": "Livro X, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 18,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 18.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro11-B.jpg",
      "legenda": "Livro XI, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica, linha de algodão e corte s/ papel, capa dura com revestimento tecido, 19x14,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink, cotton thread and cut on paper, cloth-bound hardcover, 19x14.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro11-A.jpg",
      "legenda": "Livro XI, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica, linha de algodão e corte s/ papel, capa dura com revestimento tecido, 19x14,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink, cotton thread and cut on paper, cloth-bound hardcover, 19x14.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro11-C.jpg",
      "legenda": "Livro XI, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica, linha de algodão e corte s/ papel, capa dura com revestimento tecido, 19x14,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink, cotton thread and cut on paper, cloth-bound hardcover, 19x14.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro12-B.jpg",
      "legenda": "Livro XII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19,5x14,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19.5x14.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro12-A.jpg",
      "legenda": "Livro XII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19,5x14,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19.5x14.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro12-D.jpg",
      "legenda": "Livro XII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19,5x14,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19.5x14.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro15-B.jpg",
      "legenda": "Livro XV, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 21,5x11 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 21.5x11 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro15-A.jpg",
      "legenda": "Livro XV, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 21,5x11 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 21.5x11 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro15-D.jpg",
      "legenda": "Livro XV, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 21,5x11 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 21.5x11 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro16-B.jpg",
      "legenda": "Livro XVI, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16,5x13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16.5x13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro16-A.jpg",
      "legenda": "Livro XVI, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16,5x13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16.5x13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro16-D.jpg",
      "legenda": "Livro XVI, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16,5x13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16.5x13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro18-B.jpg",
      "legenda": "Livro XVIII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro18-A.jpg",
      "legenda": "Livro XVIII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro18-C.jpg",
      "legenda": "Livro XVIII, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro19-B.jpg",
      "legenda": "Livro XIX, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 17x12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 17x12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro19-A.jpg",
      "legenda": "Livro XIX, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 17x12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 17x12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro19-D.jpg",
      "legenda": "Livro XIX, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 17x12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 17x12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro6-B.jpg",
      "legenda": "Livro VI, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica, linha de algodão e corte s/ papel, capa dura com revestimento tecido, 19,5x12,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink, cotton thread and cut on paper, cloth-bound hardcover, 19.5x12.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro6-A.jpg",
      "legenda": "Livro VI, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica, linha de algodão e corte s/ papel, capa dura com revestimento tecido, 19,5x12,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink, cotton thread and cut on paper, cloth-bound hardcover, 19.5x12.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro6-E.jpg",
      "legenda": "Livro VI, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica, linha de algodão e corte s/ papel, capa dura com revestimento tecido, 19,5x12,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink, cotton thread and cut on paper, cloth-bound hardcover, 19.5x12.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro9-B.jpg",
      "legenda": "Livro IX, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro9-A.jpg",
      "legenda": "Livro IX, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro9-C.jpg",
      "legenda": "Livro IX, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 19,5x14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 19.5x14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro14-B.jpg",
      "legenda": "Livro XIV, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 17x13,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 17x13.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro14-A.jpg",
      "legenda": "Livro XIV, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 17x13,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 17x13.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "2021-BN-Livro14-C.jpg",
      "legenda": "Livro XIV, 2021",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 17x13,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 17x13.5 cm (closed). Signed and dated.</span>"
     }
    ],
    "antigo": "portfolio/coleccao-a-montanha"
@@ -428,167 +491,167 @@
     {
      "ficheiro": "BN-AILHA-01-A.jpg",
      "legenda": "Caderno I",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-01-B.jpg",
      "legenda": "Caderno I",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-01-C.jpg",
      "legenda": "Caderno I",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-02-A.jpg",
      "legenda": "Caderno II",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x41,5 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x41.5 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-02-B.jpg",
      "legenda": "Caderno II",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x41,5 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x41.5 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-02-C.jpg",
      "legenda": "Caderno II",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x41,5 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x41.5 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-03-A.jpg",
      "legenda": "Caderno III",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-03-B.jpg",
      "legenda": "Caderno III",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-03-D.jpg",
      "legenda": "Caderno III",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-04-A.jpg",
      "legenda": "Caderno IV",
-     "descricao": ""
+     "descricao": "Livro, aguarela e tinta acrílica s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, watercolor and acrylic ink on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-04-B.jpg",
      "legenda": "Caderno IV",
-     "descricao": ""
+     "descricao": "Livro, aguarela e tinta acrílica s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, watercolor and acrylic ink on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-04-D.jpg",
      "legenda": "Caderno IV",
-     "descricao": ""
+     "descricao": "Livro, aguarela e tinta acrílica s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, watercolor and acrylic ink on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-05-A.jpg",
      "legenda": "Caderno V",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-05-B.jpg",
      "legenda": "Caderno V",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-05-D.jpg",
      "legenda": "Caderno V",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-06-A.jpg",
      "legenda": "Caderno VI",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-06-B.jpg",
      "legenda": "Caderno VI",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-06-C.jpg",
      "legenda": "Caderno VI",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-07-A.jpg",
      "legenda": "Caderno VII",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-07-B.jpg",
      "legenda": "Caderno VII",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-07-D.jpg",
      "legenda": "Caderno VII",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x29 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x29 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-10-A.jpg",
      "legenda": "Caderno X",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x40 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x40 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-10-B.jpg",
      "legenda": "Caderno X",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x40 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x40 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-10-2B.jpg",
      "legenda": "Caderno X",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x40 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x40 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-14-A.jpg",
      "legenda": "Caderno XIV",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 21,5x17 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 21.5x17 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-14-B.jpg",
      "legenda": "Caderno XIV",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 21,5x17 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 21.5x17 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-14-2A.jpg",
      "legenda": "Caderno XIV",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 21,5x17 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 21.5x17 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-19-A.jpg",
      "legenda": "Caderno XIX",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x20 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x20 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-19-B.jpg",
      "legenda": "Caderno XIX",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x20 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x20 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-19-C.jpg",
      "legenda": "Caderno XIX",
-     "descricao": ""
+     "descricao": "Livro, aguarela, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x20 cm.<br><span lang=\"en\">Book, watercolor, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x20 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-20-A.jpg",
      "legenda": "Caderno XX",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x17 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x17 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-20-B.jpg",
      "legenda": "Caderno XX",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x17 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x17 cm.</span>"
     },
     {
      "ficheiro": "BN-AILHA-20-C.jpg",
      "legenda": "Caderno XX",
-     "descricao": ""
+     "descricao": "Livro, tinta acrílica e guache s/ papel Arches, encadernação com capa dura revestida a tecido, 26x17 cm.<br><span lang=\"en\">Book, acrylic ink and gouache on Arches paper, cloth-bound hardcover, 26x17 cm.</span>"
     }
    ],
    "antigo": "portfolio/coleccao-a-ilha"
@@ -611,242 +674,242 @@
     {
      "ficheiro": "Abismo-26-C.jpg",
      "legenda": "Apontamentos 26, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e linha s/ papel, capa dura com revestimento tecido, 16,5×12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and thread on paper, cloth-bound hardcover, 16.5×12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-26-A.jpg",
      "legenda": "Apontamentos 26, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e linha s/ papel, capa dura com revestimento tecido, 16,5×12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and thread on paper, cloth-bound hardcover, 16.5×12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-26-D.jpg",
      "legenda": "Apontamentos 26, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e linha s/ papel, capa dura com revestimento tecido, 16,5×12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and thread on paper, cloth-bound hardcover, 16.5×12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-25-C.jpg",
      "legenda": "Apontamentos 25, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 15×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 15×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-25-A.jpg",
      "legenda": "Apontamentos 25, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 15×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 15×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-25-D.jpg",
      "legenda": "Apontamentos 25, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 15×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 15×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-24-C.jpg",
      "legenda": "Apontamentos 24, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e corte s/ papel, capa dura com revestimento tecido, 16,5×12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and cut on paper, cloth-bound hardcover, 16.5×12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-24-A.jpg",
      "legenda": "Apontamentos 24, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e corte s/ papel, capa dura com revestimento tecido, 16,5×12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and cut on paper, cloth-bound hardcover, 16.5×12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-24-D.jpg",
      "legenda": "Apontamentos 24, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e corte s/ papel, capa dura com revestimento tecido, 16,5×12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and cut on paper, cloth-bound hardcover, 16.5×12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-22-C.jpg",
      "legenda": "Apontamentos 22, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e linha s/ papel, capa dura com revestimento tecido, 16,5×12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and thread on paper, cloth-bound hardcover, 16.5×12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-22-A.jpg",
      "legenda": "Apontamentos 22, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e linha s/ papel, capa dura com revestimento tecido, 16,5×12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and thread on paper, cloth-bound hardcover, 16.5×12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-22-D.jpg",
      "legenda": "Apontamentos 22, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e linha s/ papel, capa dura com revestimento tecido, 16,5×12 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and thread on paper, cloth-bound hardcover, 16.5×12 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-23-C.jpg",
      "legenda": "Apontamentos 23, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 15×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 15×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-23-A.jpg",
      "legenda": "Apontamentos 23, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 15×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 15×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-23-D.jpg",
      "legenda": "Apontamentos 23, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica s/ papel, capa dura com revestimento tecido, 15×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink on paper, cloth-bound hardcover, 15×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-21-A.jpg",
      "legenda": "Apontamentos 21, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-21-C.jpg",
      "legenda": "Apontamentos 21, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-21-G.jpg",
      "legenda": "Apontamentos 21, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-20-A.jpg",
      "legenda": "Apontamentos 20, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-20-C.jpg",
      "legenda": "Apontamentos 20, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-20-G.jpg",
      "legenda": "Apontamentos 20, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-19-A.jpg",
      "legenda": "Apontamentos 19, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-19-C.jpg",
      "legenda": "Apontamentos 19, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-19-G.jpg",
      "legenda": "Apontamentos 19, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-18-A.jpg",
      "legenda": "Apontamentos 18, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16×13,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16×13.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-18-C.jpg",
      "legenda": "Apontamentos 18, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16×13,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16×13.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-18-G.jpg",
      "legenda": "Apontamentos 18, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16×13,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16×13.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-17-A.jpg",
      "legenda": "Apontamentos 17, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-17-C.jpg",
      "legenda": "Apontamentos 17, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-17-H.jpg",
      "legenda": "Apontamentos 17, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-16-A.jpg",
      "legenda": "Apontamentos 16, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×12,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×12.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-16-D.jpg",
      "legenda": "Apontamentos 16, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×12,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×12.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-16-G.jpg",
      "legenda": "Apontamentos 16, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×12,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×12.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-15-C.jpg",
      "legenda": "Apontamentos 15, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16,5×14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16.5×14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-15-A.jpg",
      "legenda": "Apontamentos 15, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16,5×14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16.5×14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-15-D.jpg",
      "legenda": "Apontamentos 15, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, 16,5×14 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor, acrylic ink and cut on paper, cloth-bound hardcover, 16.5×14 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-14-A.jpg",
      "legenda": "Apontamentos 14, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 17×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 17×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-14-C.jpg",
      "legenda": "Apontamentos 14, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 17×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 17×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-14-F.jpg",
      "legenda": "Apontamentos 14, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 17×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 17×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-13-A.jpg",
      "legenda": "Apontamentos 13, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-13-C.jpg",
      "legenda": "Apontamentos 13, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-13-F.jpg",
      "legenda": "Apontamentos 13, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-12-A.jpg",
      "legenda": "Apontamentos 12, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-12-C.jpg",
      "legenda": "Apontamentos 12, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-12-E.jpg",
      "legenda": "Apontamentos 12, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16×13 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16×13 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-11-A.jpg",
      "legenda": "Apontamentos 11, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×12,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×12.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-11-C.jpg",
      "legenda": "Apontamentos 11, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×12,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×12.5 cm (closed). Signed and dated.</span>"
     },
     {
      "ficheiro": "Abismo-11-E.jpg",
      "legenda": "Apontamentos 11, 2020",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela e tinta acrílica s/ papel, capa dura com revestimento tecido, 16,5×12,5 cm (fechado). Assinado e datado.<br><span lang=\"en\">Single folio book, watercolor and acrylic ink on paper, cloth-bound hardcover, 16.5×12.5 cm (closed). Signed and dated.</span>"
     }
    ],
    "antigo": "portfolio/coleccao-abismo"
@@ -864,433 +927,450 @@
     {
      "ficheiro": "2017/09/plantae-ii-27x18cm.jpg",
      "legenda": "Plantae II, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 27x18 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 27x18 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 27x18 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/plantae-ii-27x18cm-_1.jpg",
      "legenda": "Plantae II, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 27x18 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 27x18 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 27x18 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/plantae-ii-27x18cm-_2.jpg",
      "legenda": "Plantae II, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 27x18 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 27x18 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 27x18 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-cadernodecampo-5-1-39x52cm-02_1.jpg",
      "legenda": "Caderno de Campo 5.1, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 39x52 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 39x52 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-cadernodecampo-5-1-39x52cm-9.jpg",
      "legenda": "Caderno de Campo 5.1, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 39x52 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 39x52 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-cadernodecampo-5-1-39x52cm-20.jpg",
      "legenda": "Caderno de Campo 5.1, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 39x52 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 39x52 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-xii-34-5x29cm-0.jpg",
-     "legenda": "Nature XII, 2017",
-     "descricao": "34,5x29 cm"
+     "legenda": "Natura XII, 2017",
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 34,5x29 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 34.5x29 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-xii-34-5x29cm-9.jpg",
-     "legenda": "Nature XII, 2017",
-     "descricao": ""
+     "legenda": "Natura XII, 2017",
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 34,5x29 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 34.5x29 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-xii-34-5x29cm-4.jpg",
-     "legenda": "Nature XII, 2017",
-     "descricao": ""
+     "legenda": "Natura XII, 2017",
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 34,5x29 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 34.5x29 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-x-34x16-5cm-0.jpg",
      "legenda": "Natura X, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 34x16,5 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 34x16.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-x-34x16-5cm-5.jpg",
      "legenda": "Natura X, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 34x16,5 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 34x16.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-x-34x16-5cm-1.jpg",
      "legenda": "Natura X, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 34x16,5 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 34x16.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-v-26-5x20cm-0-0a_2.jpg",
      "legenda": "Caderno V, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 26,5x20 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 26.5x20 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-v-26-5x20cm-9.jpg",
      "legenda": "Caderno V, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 26,5x20 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 26.5x20 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-v-26-5x20cm-2.jpg",
      "legenda": "Caderno V, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 26,5x20 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 26.5x20 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-vi-34x33cm-0a.jpg",
      "legenda": "Caderno VI, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 34x33 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 34x33 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-vi-34x33cm-1.jpg",
      "legenda": "Caderno VI, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 34x33 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 34x33 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-vi-34x33cm-det.jpg",
      "legenda": "Caderno VI, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 34x33 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 34x33 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-BN-Botanica-II-20-5x33cm-0_1.jpg",
      "legenda": "Botânica II, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 20,5x33 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 20.5x33 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-BN-Botanica-II-20-5x33cm-6.jpg",
      "legenda": "Botânica II, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 20,5x33 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 20.5x33 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-ix-23-5x22cm-0.jpg",
      "legenda": "Natura IX, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 23,5x22 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 23.5x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-ix-23-5x22cm-3.jpg",
      "legenda": "Natura IX, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 23,5x22 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 23.5x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-ix-23-5x22cm-9.jpg",
      "legenda": "Natura IX, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 23,5x22 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 23.5x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-xiii-45-5x28-5cm-0.jpg",
      "legenda": "Natura XIII, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 45,5x28,5 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 45.5x28.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-xiii-45-5x28-5cm-4.jpg",
      "legenda": "Natura XIII, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 45,5x28,5 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 45.5x28.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-natura-xiii-45-5x28-5cm-det.jpg",
      "legenda": "Natura XIII, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 45,5x28,5 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 45.5x28.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-iva-14-5x16-5cm-0_2.jpg",
      "legenda": "Caderno IV.a, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 14,5x16,5 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 14.5x16.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-iva-14-5x16-5cm-1.jpg",
      "legenda": "Caderno IV.a, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 14,5x16,5 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 14.5x16.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-iva-14-5x16-5cm-5det.jpg",
      "legenda": "Caderno IV.a, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 14,5x16,5 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 14.5x16.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-flora-51-34-5x32cm-0_1.jpg",
      "legenda": "Flora 51, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 34,5x32 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 34.5x32 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-flora-51-34-5x32cm-2.jpg",
      "legenda": "Flora 51, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 34,5x32 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 34.5x32 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-flora-iv-32x24-5cm-0a.jpg",
      "legenda": "Flora IV, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 32x24,5 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 32x24.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-flora-iv-32x24-5cm-9.jpg",
      "legenda": "Flora IV, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 32x24,5 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 32x24.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-flora-iv-32x24-5cm-1.jpg",
      "legenda": "Flora IV, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 32x24,5 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 32x24.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-flora-45-18x42cm-0_1.jpg",
      "legenda": "Flora 45, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 18x42 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 18x42 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-flora-45-18x42cm-2.jpg",
      "legenda": "Flora 45, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 18x42 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 18x42 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-vii-48x52-5cm-0det.jpg",
      "legenda": "Caderno VII, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 48x52,5 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 48x52.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-vii-48x52-5cm-3det.jpg",
      "legenda": "Caderno VII, 2017",
-     "descricao": ""
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 48x52,5 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 48x52.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/botanicavi-v_0076.jpg",
      "legenda": "Botânica VI.V., 2014",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 19,9x16,2 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 19,9x16,2 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 19.9x16.2 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/botanicavi-v_0087.jpg",
      "legenda": "Botânica VI.V., 2014",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 19,9x16,2 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 19,9x16,2 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 19.9x16.2 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/botanicavi-v_0084.jpg",
      "legenda": "Botânica VI.V., 2014",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 19,9x16,2 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 19,9x16,2 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 19.9x16.2 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturav_0010.jpg",
      "legenda": "Natura V, 2014",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 32 x 28 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 32x28 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 32x28 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturav_0030.jpg",
      "legenda": "Natura V, 2014",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 32 x 28 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 32x28 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 32x28 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturav_0014.jpg",
      "legenda": "Natura V, 2014",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 32 x 28 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 32x28 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 32x28 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturaviii-20x22cm.jpg",
      "legenda": "Natura VIII, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 20x22 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 20x22 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 20x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturaviii-20x22cm_2.jpg",
      "legenda": "Natura VIII, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 20x22 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 20x22 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 20x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturaviii-20x22cm_1.jpg",
      "legenda": "Natura VIII, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 20x22 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 20x22 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 20x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/plantaei_0053.jpg",
      "legenda": "Plantae I, 2016",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 31 x 21 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 31x21 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 31x21 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/plantaei_0054.jpg",
      "legenda": "Plantae I, 2016",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 31 x 21 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 31x21 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 31x21 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/plantaei_0046.jpg",
      "legenda": "Plantae I, 2016",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 31 x 21 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 31x21 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 31x21 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturaevi-22x21-5cm.jpg",
      "legenda": "Natura VI, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 22x21 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 22x21 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 22x21 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturaevi-22x21-5cm_4.jpg",
      "legenda": "Natura VI, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 22x21 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 22x21 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 22x21 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturaevi-22x21-5cm_3.jpg",
      "legenda": "Natura VI, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 22x21 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 22x21 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 22x21 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/cadernodecampo-29-5x22cm.jpg",
      "legenda": "Caderno de Campo, 2016",
-     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 30x22 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 29,5x22 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 29.5x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/cadernodecampo-29-5x22cm_1.jpg",
      "legenda": "Caderno de Campo, 2016",
-     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 30x22 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 29,5x22 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 29.5x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/cadernodecampo-29-5x22cm_2.jpg",
      "legenda": "Caderno de Campo, 2016",
-     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 30x22 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 29,5x22 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 29.5x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/caderno-i-26x12-5cm1.jpg",
-     "legenda": "Caderno de Campo, 2014",
-     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 26x12,5 cm."
+     "legenda": "Caderno I, 2014",
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 26x12,5 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 26x12.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/flora-37x15cm_1.jpg",
      "legenda": "Flora, 2014",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 37x15 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 37x15 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 37x15 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturaiv_0101.jpg",
      "legenda": "Natura IV, 2014",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 26 x 23 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 26x23 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 26x23 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturaiv_0103.jpg",
      "legenda": "Natura IV, 2014",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 26 x 23 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 26x23 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 26x23 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturaiv_0102.jpg",
      "legenda": "Natura IV, 2014",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 26 x 23 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 26x23 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 26x23 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturavii_0088.jpg",
      "legenda": "Natura VII, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 26x21 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 26x21 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 26x21 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturavii_0095.jpg",
      "legenda": "Natura VII, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 26x21 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 26x21 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 26x21 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/naturavii_0090.jpg",
      "legenda": "Natura VII, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 26x21 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 26x21 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 26x21 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/caderno-i-26x12-5cm1.jpg",
-     "legenda": "Caderno de Campo, 2014",
-     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 26x12,5 cm."
+     "legenda": "Caderno I, 2014",
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 26x12,5 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 26x12.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/caderno-i-26x12-5cm1_1.jpg",
-     "legenda": "Caderno de Campo, 2014",
-     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 26x12,5 cm."
+     "legenda": "Caderno I, 2014",
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 26x12,5 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 26x12.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/2014-cadernoii-2.jpg",
      "legenda": "Caderno II, 2014",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 34 x 17 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 34x17 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 34x17 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/2014-cadernoii.jpg",
      "legenda": "Caderno II, 2014",
-     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 34 x 17 cm."
+     "descricao": "Livro, 1 fólio, tinta da china, tinta Sumi sobre papel de aguarela, encadernação com capa dura forrada a tecido, 34x17 cm (fechado).<br><span lang=\"en\">Single folio book, china ink and Sumi ink on watercolor paper, cloth-bound hardcover, 34x17 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/caderno-b-21-5x17cm.jpg",
      "legenda": "Caderno B, 2014",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 21,5x17 cm."
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 21,5x17 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 21.5x17 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/caderno-b-21-5x17cm_1.jpg",
      "legenda": "Caderno B, 2014",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 21,5x17 cm."
+     "descricao": "Livro, 1 fólio, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 21,5x17 cm (fechado).<br><span lang=\"en\">Single folio book, china and Sumi ink on watercolor paper, cloth-bound hardcover, 21.5x17 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-iv-31x18cm-6.jpg",
      "legenda": "Caderno IV, 2017",
-     "descricao": ""
+     "descricao": "Livro, leporello com 8 páginas, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 31x18 cm (fechado).<br><span lang=\"en\">Accordion book, 8 pages, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 31x18 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-iv-31x18cm-8.jpg",
      "legenda": "Caderno IV, 2017",
-     "descricao": ""
+     "descricao": "Livro, leporello com 8 páginas, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 31x18 cm (fechado).<br><span lang=\"en\">Accordion book, 8 pages, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 31x18 cm (closed).</span>"
     },
     {
      "ficheiro": "2017-bn-caderno-iv-31x18cm-14.jpg",
      "legenda": "Caderno IV, 2017",
-     "descricao": ""
+     "descricao": "Livro, leporello com 8 páginas, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 31x18 cm (fechado).<br><span lang=\"en\">Accordion book, 8 pages, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 31x18 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/flora-i-16-5x16cm.jpg",
      "legenda": "Flora I, 2014",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 16,6x16 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 16,5x16 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 16.5x16 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/flora-i-16-5x16cm_1.jpg",
      "legenda": "Flora I, 2014",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 16,6x16 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 16,5x16 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 16.5x16 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/caderno-a5-17x10-5cm.jpg",
      "legenda": "Caderno a.5., 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 17x10,5 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 17x10,5 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 17x10.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/caderno-a5-17x10-5cm_1.jpg",
      "legenda": "Caderno a.5., 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 17x10,5 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 17x10,5 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 17x10.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/cadernoiii-23-5x22-5cm.jpg",
      "legenda": "Caderno III, 2014",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 23,5x22,5 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 23,5x22 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 23.5x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/cadernoiii-23-5x22-5cm_1.jpg",
      "legenda": "Caderno III, 2014",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 23,5x22,5 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 23,5x22 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 23.5x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/botanica-i-14x15-5cm.jpg",
      "legenda": "Botânica I, 2014",
-     "descricao": "Sngle folio book, watercolor and china ink on watercolor paper, cloth bound, 14x15,5 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 14x15,5 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 14x15.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/botanica-i-14x15-5cm_1.jpg",
      "legenda": "Botânica I, 2014",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 14x15,5 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 14x15,5 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 14x15.5 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/notas51-13-5x9cm.jpg",
      "legenda": "Notas 51, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 13,5x9 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 13,5x9 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 13.5x9 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/notas51-13-5x9cm_1.jpg",
      "legenda": "Notas 51, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 13,5x9 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 13,5x9 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 13.5x9 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/estudosb-21x22cm.jpg",
      "legenda": "Estudos b, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 21x22 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 21x22 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 21x22 cm (closed).</span>"
     },
     {
      "ficheiro": "2017/09/estudosb-21x22cm_1.jpg",
      "legenda": "Estudos b, 2016",
-     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 21x22 cm."
+     "descricao": "Livro, 1 fólio, aguarela, tinta da china e Sumi s/ papel de aguarela, encadernação com capa dura revestida a tecido, 21x22 cm (fechado).<br><span lang=\"en\">Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth-bound hardcover, 21x22 cm (closed).</span>"
     }
    ],
    "antigo": "portfolio/biblioteca-natural-i"
   }
  ],
  "itinerancia": [
+  {
+   "slug": "white-box-1-intervalos-museu-do-caramulo",
+   "titulo": "White Box #1: Intervalos, Museu do Caramulo",
+   "data": "2026-04-11",
+   "capa": "a-montanha-magica.jpg",
+   "resumo": [
+    "<cite>White Box #1: Intervalos</cite><br>curadoria de José Maçãs de Carvalho<br>Museu do Caramulo<br>11 de Abril – 18 de Outubro 2026"
+   ],
+   "corpo": [
+    "<cite>White Box #1: Intervalos</cite><br>curadoria de José Maçãs de Carvalho<br>Museu do Caramulo<br>11 de Abril – 18 de Outubro 2026",
+    "A <a href=\"../../catalogo/colecao-montanha-magica/index.html\">Coleção Montanha Mágica</a>, cinco cadernos de campo feitos durante a residência artística White Box, foi apresentada nesta exposição e pertence agora à coleção do Museu do Caramulo.",
+    "The <a href=\"../../catalogo/colecao-montanha-magica/index.html\">Magic Mountain Collection</a>, five field notebooks made during the White Box artist residency, was shown in this exhibition and now belongs to the collection of the Museu do Caramulo.",
+    "[[img:a-montanha-magica.jpg]]",
+    "[[legenda:A Colecção Montanha Mágica, Museu do Caramulo, 2026]]"
+   ],
+   "antigo": null
+  },
   {
    "slug": "biblioteca-natural-casa-da-cerca",
    "titulo": "Biblioteca Natural, Casa da Cerca",
