@@ -207,7 +207,7 @@ def gerar():
 <div class="grelha">{grelha}</div>
 </div>'''
         escrever(rel, pagina(rel, sem_tags(ao_misto(col["titulo"])), corpo, actual="catalogo", imagem_og=imagem(col["capa"])["n"]))
-        redireccionar(col["antigo"], rel)
+        if col.get("antigo"): redireccionar(col["antigo"], rel)
     redireccionar("portfolio", "catalogo/index.html")
 
     # itinerância
@@ -230,7 +230,7 @@ def gerar():
 <p class="voltar"><a href="../index.html">← traveling/itinerância</a></p>
 </article>'''
         escrever(rel, pagina(rel, sem_tags(ao_misto(it["titulo"])), corpo, actual="itinerancia", imagem_og=imagem(it["capa"])["n"]))
-        redireccionar(it["antigo"], rel)
+        if it.get("antigo"): redireccionar(it["antigo"], rel)
 
     # 404
     escrever("404.html", pagina("404.html", "Página não encontrada", '<div class="post"><h1>Página não encontrada</h1><p><a href="/">Natural Library | Biblioteca Natural</a></p></div>').replace('href="img/', 'href="/img/').replace('href="css/', 'href="/css/').replace('src="js/', 'src="/js/').replace('href="index.html"', 'href="/"').replace('href="catalogo/', 'href="/catalogo/').replace('href="itinerancia/', 'href="/itinerancia/'))

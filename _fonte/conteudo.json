@@ -21,6 +21,71 @@
  },
  "colecoes": [
   {
+   "slug": "colecao-montanha-magica",
+   "titulo": "Colecção Montanha Mágica",
+   "data": "2026-04-11",
+   "capa": "mm/2026-BN-MM-CC01-B.jpg",
+   "texto": [
+    "A Coleção Montanha Mágica reúne cinco cadernos de campo feitos no contexto da residência artística White Box, no Museu do Caramulo, e que pertencem agora à coleção do museu.",
+    "Chamei-lhe Montanha Mágica porque é assim que se chama ao Caramulo, num paralelo com o romance de Thomas Mann, passado num sanatório de montanha.",
+    "The Magic Mountain Collection brings together five field notebooks made during the White Box artist residency at the Museu do Caramulo. They now belong to the museum's collection.",
+    "I named it Magic Mountain because that is what the Caramulo is called, a parallel with Thomas Mann's novel, set in a mountain sanatorium."
+   ],
+   "imagens": [
+    {
+     "ficheiro": "mm/2026-BN-MM-CC01-A.jpg",
+     "legenda": "Caderno de Campo I, 2026",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC01-B.jpg",
+     "legenda": "Caderno de Campo I, 2026",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC02-A.jpg",
+     "legenda": "Caderno de Campo II, 2026",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC02-B.jpg",
+     "legenda": "Caderno de Campo II, 2026",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC03-A.jpg",
+     "legenda": "Caderno de Campo III, 2026",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC03-B.jpg",
+     "legenda": "Caderno de Campo III, 2026",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC04-A.jpg",
+     "legenda": "Caderno de Campo IV, 2026",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC04-B.jpg",
+     "legenda": "Caderno de Campo IV, 2026",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC05-A.jpg",
+     "legenda": "Caderno de Campo V, 2026",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "mm/2026-BN-MM-CC05-B.jpg",
+     "legenda": "Caderno de Campo V, 2026",
+     "descricao": ""
+    }
+   ],
+   "antigo": null
+  },
+  {
    "slug": "colecao-survival-systems",
    "titulo": "Colecção Survival Systems",
    "data": "2025-05-14",
@@ -1291,6 +1356,23 @@
   }
  ],
  "itinerancia": [
+  {
+   "slug": "white-box-1-intervalos-museu-do-caramulo",
+   "titulo": "White Box #1: Intervalos, Museu do Caramulo",
+   "data": "2026-04-11",
+   "capa": "a-montanha-magica.jpg",
+   "resumo": [
+    "<cite>White Box #1: Intervalos</cite><br>curadoria de José Maçãs de Carvalho<br>Museu do Caramulo<br>11 de Abril – 18 de Outubro 2026"
+   ],
+   "corpo": [
+    "<cite>White Box #1: Intervalos</cite><br>curadoria de José Maçãs de Carvalho<br>Museu do Caramulo<br>11 de Abril – 18 de Outubro 2026",
+    "A <a href=\"../../catalogo/colecao-montanha-magica/index.html\">Coleção Montanha Mágica</a>, cinco cadernos de campo feitos durante a residência artística White Box, foi apresentada nesta exposição e pertence agora à coleção do Museu do Caramulo.",
+    "The <a href=\"../../catalogo/colecao-montanha-magica/index.html\">Magic Mountain Collection</a>, five field notebooks made during the White Box artist residency, was shown in this exhibition and now belongs to the collection of the Museu do Caramulo.",
+    "[[img:a-montanha-magica.jpg]]",
+    "[[legenda:A Colecção Montanha Mágica, Museu do Caramulo, 2026]]"
+   ],
+   "antigo": null
+  },
   {
    "slug": "biblioteca-natural-casa-da-cerca",
    "titulo": "Biblioteca Natural, Casa da Cerca",
