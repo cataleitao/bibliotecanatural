@@ -241,6 +241,13 @@ def gerar():
         usadas |= set(re.findall(r"img/([\w-]+\.jpg)", h.read_text()))
     for f in (RAIZ / "img").iterdir():
         if f.name not in usadas: f.unlink()
+    # versão de cada imagem no endereço (?v=…): quando uma imagem é substituída, o navegador vai buscar a nova
+    import hashlib
+    versao = {f.name: hashlib.md5(f.read_bytes()).hexdigest()[:8] for f in (RAIZ / "img").iterdir()}
+    for h in RAIZ.rglob("*.html"):
+        t = h.read_text()
+        t2 = re.sub(r"(img/([\w-]+\.jpg))(?!\?v=)", lambda m: f"{m.group(1)}?v={versao[m.group(2)]}" if m.group(2) in versao else m.group(1), t)
+        if t2 != t: h.write_text(t2)
     n = len(FEITAS)
     print(f"feito: {len(C['colecoes'])} colecções, {len(C['itinerancia'])} entradas de itinerância, {n} imagens")
 
