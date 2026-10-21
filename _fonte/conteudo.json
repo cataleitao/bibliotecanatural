@@ -1,0 +1,1517 @@
+{
+ "inicio": {
+  "imagens": [
+   {
+    "ficheiro": "2017/09/catarina-leitacc83o-montagem-33.jpg",
+    "legenda": "Natural Library at Armário, Lisboa<br>Biblioteca Natural no Armário, 2016"
+   },
+   {
+    "ficheiro": "a-montanha-magica.jpg",
+    "legenda": "Magic Mountain Collection at the Caramulo Museum, 2026<br>A Colecção Montanha Mágica, Museu do Caramulo, 2026"
+   }
+  ],
+  "texto_en": [
+   "My Natural Library is composed by an infinite number of books, all unique copies, which define and proceed from a fictional research work in the field of natural sciences. The Library is part of a broad artistic project in which I use various media to create a narrative where I question the relationship between the human and the natural.",
+   "This art project started in 2014 and has been shown in different venues and configurations."
+  ],
+  "texto_pt": [
+   "A minha Biblioteca Natural é uma série infinita de livros, todos exemplares únicos, que definem e procedem de um trabalho ficcional de pesquisa no domínio das ciências da natureza. A Biblioteca insere-se num projecto artístico alargado no qual eu me aproprio de vários media para criar uma narrativa onde problematizo a relação entre o humano e o natural.",
+   "O projecto iniciado em 2014 tem sido exposto em locais diversos e em diferentes configurações."
+  ]
+ },
+ "colecoes": [
+  {
+   "slug": "colecao-survival-systems",
+   "titulo": "Colecção Survival Systems",
+   "data": "2025-05-14",
+   "capa": "IMG_20210724_183002644-scaled.jpg",
+   "texto": [
+    "Work in progress"
+   ],
+   "imagens": [
+    {
+     "ficheiro": "2021-BN-SSa-B.jpg",
+     "legenda": "Survival Systems A",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-SSa-A.jpg",
+     "legenda": "Survival Systems A",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-SSa-D.jpg",
+     "legenda": "Survival Systems A",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-SSc-B.jpg",
+     "legenda": "Survival Systems C",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-SSc-A.jpg",
+     "legenda": "Survival Systems C",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-SSc-C.jpg",
+     "legenda": "Survival Systems C",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-SSb-B.jpg",
+     "legenda": "Survival Systems B",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-SSb-A.jpg",
+     "legenda": "Survival Systems B",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-SSb-C_1.jpg",
+     "legenda": "Survival Systems B",
+     "descricao": ""
+    }
+   ],
+   "antigo": "portfolio/coleccao-survival-systems"
+  },
+  {
+   "slug": "colecao-plantae",
+   "titulo": "Colecção Plantæ",
+   "data": "2025-05-14",
+   "capa": "IMG_20210724_155910365-scaled.jpg",
+   "texto": [
+    "Work in progress."
+   ],
+   "imagens": [
+    {
+     "ficheiro": "2021-BN-Botanica21d-B.jpg",
+     "legenda": "Botânica XXI d.",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Botanica21d-A.jpg",
+     "legenda": "Botânica XXI d.",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Botanica21d-C.jpg",
+     "legenda": "Botânica XXI d.",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Botanica21e-B.jpg",
+     "legenda": "Botânica XXI e.",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Botanica21e-A.jpg",
+     "legenda": "Botânica XXI e.",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Botanica21e-C.jpg",
+     "legenda": "Botânica XXI e.",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Botanica21c-B.jpg",
+     "legenda": "Botânica XXI c.",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Botanica21c-A.jpg",
+     "legenda": "Botânica XXI c.",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Botanica21c-D.jpg",
+     "legenda": "Botânica XXI e.",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Botanica21a-B.jpg",
+     "legenda": "Botânica XXI a.",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Botanica21a-A-.jpg",
+     "legenda": "Botânica XXI a.",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Botanica21a-C.jpg",
+     "legenda": "Botânica XXI a.",
+     "descricao": ""
+    }
+   ],
+   "antigo": "portfolio/coleccao-plantae"
+  },
+  {
+   "slug": "colecao-a-montanha",
+   "titulo": "Colecção A Montanha",
+   "data": "2021-10-25",
+   "capa": "Montanha.jpg",
+   "texto": [],
+   "imagens": [
+    {
+     "ficheiro": "2021-BN-Livro17-B.jpg",
+     "legenda": "Livro XVII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro17-A.jpg",
+     "legenda": "Livro XVII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro17-C.jpg",
+     "legenda": "Livro XVII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro2-B.jpg",
+     "legenda": "Livro II, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro2-A.jpg",
+     "legenda": "Livro II, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro2-C.jpg",
+     "legenda": "Livro II, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro3-B.jpg",
+     "legenda": "Livro III, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro3-A.jpg",
+     "legenda": "Livro III, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro3-C.jpg",
+     "legenda": "Livro III, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro1-B.jpg",
+     "legenda": "Livro I, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro1-A.jpg",
+     "legenda": "Livro I, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro1-C.jpg",
+     "legenda": "Livro I, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro7-B.jpg",
+     "legenda": "Livro VII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro7-A.jpg",
+     "legenda": "Livro VII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro7-D.jpg",
+     "legenda": "Livro VII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro8-B.jpg",
+     "legenda": "Livro VIII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro8-A.jpg",
+     "legenda": "Livro VIII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro8-C.jpg",
+     "legenda": "Livro VIII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro4-B-2.jpg",
+     "legenda": "Livro IV, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro4-A.jpg",
+     "legenda": "Livro IV, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro4-C.jpg",
+     "legenda": "Livro IV, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro10-B.jpg",
+     "legenda": "Livro X, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro10-A.jpg",
+     "legenda": "Livro X, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro10-D.jpg",
+     "legenda": "Livro X, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro11-B.jpg",
+     "legenda": "Livro XI, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro11-A.jpg",
+     "legenda": "Livro XI, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro11-C.jpg",
+     "legenda": "Livro XI, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro12-B.jpg",
+     "legenda": "Livro XII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro12-A.jpg",
+     "legenda": "Livro XII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro12-D.jpg",
+     "legenda": "Livro XII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro15-B.jpg",
+     "legenda": "Livro XV, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro15-A.jpg",
+     "legenda": "Livro XV, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro15-D.jpg",
+     "legenda": "Livro XV, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro16-B.jpg",
+     "legenda": "Livro XVI, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro16-A.jpg",
+     "legenda": "Livro XVI, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro16-D.jpg",
+     "legenda": "Livro XVI, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro18-B.jpg",
+     "legenda": "Livro XVIII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro18-A.jpg",
+     "legenda": "Livro XVIII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro18-C.jpg",
+     "legenda": "Livro XVIII, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro19-B.jpg",
+     "legenda": "Livro XIX, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro19-A.jpg",
+     "legenda": "Livro XIX, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro19-D.jpg",
+     "legenda": "Livro XIX, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro6-B.jpg",
+     "legenda": "Livro VI, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro6-A.jpg",
+     "legenda": "Livro VI, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro6-E.jpg",
+     "legenda": "Livro VI, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro9-B.jpg",
+     "legenda": "Livro IX, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro9-A.jpg",
+     "legenda": "Livro IX, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro9-C.jpg",
+     "legenda": "Livro IX, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro14-B.jpg",
+     "legenda": "Livro XIV, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro14-A.jpg",
+     "legenda": "Livro XIV, 2021",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2021-BN-Livro14-C.jpg",
+     "legenda": "Livro XIV, 2021",
+     "descricao": ""
+    }
+   ],
+   "antigo": "portfolio/coleccao-a-montanha"
+  },
+  {
+   "slug": "colecao-a-ilha",
+   "titulo": "Colecção A Ilha",
+   "data": "2020-06-25",
+   "capa": "capas05-web.jpg",
+   "texto": [
+    "*Work developed at an Artist in residence at Madeira Natural Park / <a href=\"http://www4.uma.pt/cierl/?page_id=1905\">III INSULA International Colloquium. Beyond Nature/Artifice</a> with the support of  <a href=\"http://www4.uma.pt/cierl/?page_id=1905\">UMa Cierl</a>  and Secretaria Regional do Ambiente e Recursos Naturais| Instituto das Florestas e Conservação da Natureza. September 2017.",
+    "Esta colecção foi realizada na sequência da residência artística que fiz no Parque Natural da Madeira*, em Setembro de 2017. Com o título <em>A Ilha</em>, os trabalhos que consubstanciam este conjunto alargam o âmbito original da série para os territórios da geologia e introduzem as minhas primeiras ficções orogénicas.",
+    "*Residência artística desenvolvida no Parque Natural da Madeira em setembro de 2017, promovida pelo <a href=\"http://www4.uma.pt/cierl/?page_id=1905\">UMa Cierl</a> em parceria com a Secretaria Regional do Ambiente e Recursos Naturais| Instituto das Florestas e Conservação da Natureza, no âmbito da organização do <a href=\"http://www4.uma.pt/cierl/?page_id=1905\">III INSULA International Colloquium. Beyond Nature/Artifice</a>"
+   ],
+   "imagens": [
+    {
+     "ficheiro": "BN-AILHA-01-A.jpg",
+     "legenda": "Caderno I",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-01-B.jpg",
+     "legenda": "Caderno I",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-01-C.jpg",
+     "legenda": "Caderno I",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-02-A.jpg",
+     "legenda": "Caderno II",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-02-B.jpg",
+     "legenda": "Caderno II",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-02-C.jpg",
+     "legenda": "Caderno II",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-03-A.jpg",
+     "legenda": "Caderno III",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-03-B.jpg",
+     "legenda": "Caderno III",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-03-D.jpg",
+     "legenda": "Caderno III",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-04-A.jpg",
+     "legenda": "Caderno IV",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-04-B.jpg",
+     "legenda": "Caderno IV",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-04-D.jpg",
+     "legenda": "Caderno IV",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-05-A.jpg",
+     "legenda": "Caderno V",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-05-B.jpg",
+     "legenda": "Caderno V",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-05-D.jpg",
+     "legenda": "Caderno V",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-06-A.jpg",
+     "legenda": "Caderno VI",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-06-B.jpg",
+     "legenda": "Caderno VI",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-06-C.jpg",
+     "legenda": "Caderno VI",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-07-A.jpg",
+     "legenda": "Caderno VII",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-07-B.jpg",
+     "legenda": "Caderno VII",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-07-D.jpg",
+     "legenda": "Caderno VII",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-10-A.jpg",
+     "legenda": "Caderno X",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-10-B.jpg",
+     "legenda": "Caderno X",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-10-2B.jpg",
+     "legenda": "Caderno X",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-14-A.jpg",
+     "legenda": "Caderno XIV",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-14-B.jpg",
+     "legenda": "Caderno XIV",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-14-2A.jpg",
+     "legenda": "Caderno XIV",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-19-A.jpg",
+     "legenda": "Caderno XIX",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-19-B.jpg",
+     "legenda": "Caderno XIX",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-19-C.jpg",
+     "legenda": "Caderno XIX",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-20-A.jpg",
+     "legenda": "Caderno XX",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-20-B.jpg",
+     "legenda": "Caderno XX",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "BN-AILHA-20-C.jpg",
+     "legenda": "Caderno XX",
+     "descricao": ""
+    }
+   ],
+   "antigo": "portfolio/coleccao-a-ilha"
+  },
+  {
+   "slug": "colecao-abismo",
+   "titulo": "Colecção Abismo",
+   "data": "2020-06-25",
+   "capa": "DSF4632.jpg",
+   "texto": [
+    "<strong>Natural Library. Abyss Collection.</strong>",
+    "The Abismo (Abyss) Collection is part of a larger project titled The Natural Library and it is being published on an Instagram page (@biblioteca.natural). They are unique books, single folio and small size that can be ordered by postal mail.",
+    "Single folio, watercolor, acrylic ink, thread and cut on paper, cloth bound, about 16,5×14 cm (closed). Signed and dated.",
+    "<a href=\"http://instagram.com/biblioteca.natural/\">https://www.instagram.com/biblioteca.natural/</a>",
+    "Realizada em tempos de isolamento social, a nova colecção da Biblioteca Natural – com o título Abismo – está a ser divulgada numa página do <a href=\"https://www.instagram.com/biblioteca.natural/\">Instagram</a>. São livros únicos com um fólio e de pequena dimensão que podem ser requisitados por correio postal.",
+    "1 fólio, aguarela, tinta acrílica e corte s/ papel, capa dura com revestimento tecido, cerca 16,5×14 cm (fechado). Assinado e datado.",
+    "<a href=\"http://instagram.com/biblioteca.natural/\">https://www.instagram.com/biblioteca.natural/</a>"
+   ],
+   "imagens": [
+    {
+     "ficheiro": "Abismo-26-C.jpg",
+     "legenda": "Apontamentos 26, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-26-A.jpg",
+     "legenda": "Apontamentos 26, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-26-D.jpg",
+     "legenda": "Apontamentos 26, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-25-C.jpg",
+     "legenda": "Apontamentos 25, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-25-A.jpg",
+     "legenda": "Apontamentos 25, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-25-D.jpg",
+     "legenda": "Apontamentos 25, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-24-C.jpg",
+     "legenda": "Apontamentos 24, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-24-A.jpg",
+     "legenda": "Apontamentos 24, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-24-D.jpg",
+     "legenda": "Apontamentos 24, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-22-C.jpg",
+     "legenda": "Apontamentos 22, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-22-A.jpg",
+     "legenda": "Apontamentos 22, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-22-D.jpg",
+     "legenda": "Apontamentos 22, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-23-C.jpg",
+     "legenda": "Apontamentos 23, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-23-A.jpg",
+     "legenda": "Apontamentos 23, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-23-D.jpg",
+     "legenda": "Apontamentos 23, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-21-A.jpg",
+     "legenda": "Apontamentos 21, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-21-C.jpg",
+     "legenda": "Apontamentos 21, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-21-G.jpg",
+     "legenda": "Apontamentos 21, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-20-A.jpg",
+     "legenda": "Apontamentos 20, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-20-C.jpg",
+     "legenda": "Apontamentos 20, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-20-G.jpg",
+     "legenda": "Apontamentos 20, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-19-A.jpg",
+     "legenda": "Apontamentos 19, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-19-C.jpg",
+     "legenda": "Apontamentos 19, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-19-G.jpg",
+     "legenda": "Apontamentos 19, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-18-A.jpg",
+     "legenda": "Apontamentos 18, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-18-C.jpg",
+     "legenda": "Apontamentos 18, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-18-G.jpg",
+     "legenda": "Apontamentos 18, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-17-A.jpg",
+     "legenda": "Apontamentos 17, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-17-C.jpg",
+     "legenda": "Apontamentos 17, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-17-H.jpg",
+     "legenda": "Apontamentos 17, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-16-A.jpg",
+     "legenda": "Apontamentos 16, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-16-D.jpg",
+     "legenda": "Apontamentos 16, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-16-G.jpg",
+     "legenda": "Apontamentos 16, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-15-C.jpg",
+     "legenda": "Apontamentos 15, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-15-A.jpg",
+     "legenda": "Apontamentos 15, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-15-D.jpg",
+     "legenda": "Apontamentos 15, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-14-A.jpg",
+     "legenda": "Apontamentos 14, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-14-C.jpg",
+     "legenda": "Apontamentos 14, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-14-F.jpg",
+     "legenda": "Apontamentos 14, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-13-A.jpg",
+     "legenda": "Apontamentos 13, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-13-C.jpg",
+     "legenda": "Apontamentos 13, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-13-F.jpg",
+     "legenda": "Apontamentos 13, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-12-A.jpg",
+     "legenda": "Apontamentos 12, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-12-C.jpg",
+     "legenda": "Apontamentos 12, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-12-E.jpg",
+     "legenda": "Apontamentos 12, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-11-A.jpg",
+     "legenda": "Apontamentos 11, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-11-C.jpg",
+     "legenda": "Apontamentos 11, 2020",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "Abismo-11-E.jpg",
+     "legenda": "Apontamentos 11, 2020",
+     "descricao": ""
+    }
+   ],
+   "antigo": "portfolio/coleccao-abismo"
+  },
+  {
+   "slug": "biblioteca-natural-i",
+   "titulo": "Biblioteca Natural I",
+   "data": "2020-06-25",
+   "capa": "capas06-web.jpg",
+   "texto": [
+    "My Natural Library is composed by an infinite number of books, all unique copies, which define and proceed from a fictional research work in the field of natural sciences. The Library is part of a broad artistic project in which I use various media to create a narrative where I question the relationship between the human and the natural.",
+    "A minha Biblioteca Natural é uma série infinita de livros, todos exemplares únicos, que definem e procedem de um trabalho ficcional de pesquisa no domínio das ciências da natureza. A Biblioteca insere-se num projecto artístico alargado no qual eu me aproprio de vários media para criar uma narrativa onde problematizo a relação entre o humano e o natural."
+   ],
+   "imagens": [
+    {
+     "ficheiro": "2017/09/plantae-ii-27x18cm.jpg",
+     "legenda": "Plantae II, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 27x18 cm."
+    },
+    {
+     "ficheiro": "2017/09/plantae-ii-27x18cm-_1.jpg",
+     "legenda": "Plantae II, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 27x18 cm."
+    },
+    {
+     "ficheiro": "2017/09/plantae-ii-27x18cm-_2.jpg",
+     "legenda": "Plantae II, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 27x18 cm."
+    },
+    {
+     "ficheiro": "2017-bn-cadernodecampo-5-1-39x52cm-02_1.jpg",
+     "legenda": "Caderno de Campo 5.1, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-cadernodecampo-5-1-39x52cm-9.jpg",
+     "legenda": "Caderno de Campo 5.1, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-cadernodecampo-5-1-39x52cm-20.jpg",
+     "legenda": "Caderno de Campo 5.1, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-natura-xii-34-5x29cm-0.jpg",
+     "legenda": "Nature XII, 2017",
+     "descricao": "34,5x29 cm"
+    },
+    {
+     "ficheiro": "2017-bn-natura-xii-34-5x29cm-9.jpg",
+     "legenda": "Nature XII, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-natura-xii-34-5x29cm-4.jpg",
+     "legenda": "Nature XII, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-natura-x-34x16-5cm-0.jpg",
+     "legenda": "Natura X, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-natura-x-34x16-5cm-5.jpg",
+     "legenda": "Natura X, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-natura-x-34x16-5cm-1.jpg",
+     "legenda": "Natura X, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-v-26-5x20cm-0-0a_2.jpg",
+     "legenda": "Caderno V, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-v-26-5x20cm-9.jpg",
+     "legenda": "Caderno V, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-v-26-5x20cm-2.jpg",
+     "legenda": "Caderno V, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-vi-34x33cm-0a.jpg",
+     "legenda": "Caderno VI, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-vi-34x33cm-1.jpg",
+     "legenda": "Caderno VI, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-vi-34x33cm-det.jpg",
+     "legenda": "Caderno VI, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-BN-Botanica-II-20-5x33cm-0_1.jpg",
+     "legenda": "Botânica II, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-BN-Botanica-II-20-5x33cm-6.jpg",
+     "legenda": "Botânica II, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-natura-ix-23-5x22cm-0.jpg",
+     "legenda": "Natura IX, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-natura-ix-23-5x22cm-3.jpg",
+     "legenda": "Natura IX, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-natura-ix-23-5x22cm-9.jpg",
+     "legenda": "Natura IX, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-natura-xiii-45-5x28-5cm-0.jpg",
+     "legenda": "Natura XIII, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-natura-xiii-45-5x28-5cm-4.jpg",
+     "legenda": "Natura XIII, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-natura-xiii-45-5x28-5cm-det.jpg",
+     "legenda": "Natura XIII, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-iva-14-5x16-5cm-0_2.jpg",
+     "legenda": "Caderno IV.a, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-iva-14-5x16-5cm-1.jpg",
+     "legenda": "Caderno IV.a, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-iva-14-5x16-5cm-5det.jpg",
+     "legenda": "Caderno IV.a, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-flora-51-34-5x32cm-0_1.jpg",
+     "legenda": "Flora 51, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-flora-51-34-5x32cm-2.jpg",
+     "legenda": "Flora 51, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-flora-iv-32x24-5cm-0a.jpg",
+     "legenda": "Flora IV, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-flora-iv-32x24-5cm-9.jpg",
+     "legenda": "Flora IV, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-flora-iv-32x24-5cm-1.jpg",
+     "legenda": "Flora IV, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-flora-45-18x42cm-0_1.jpg",
+     "legenda": "Flora 45, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-flora-45-18x42cm-2.jpg",
+     "legenda": "Flora 45, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-vii-48x52-5cm-0det.jpg",
+     "legenda": "Caderno VII, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-vii-48x52-5cm-3det.jpg",
+     "legenda": "Caderno VII, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017/09/botanicavi-v_0076.jpg",
+     "legenda": "Botânica VI.V., 2014",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 19,9x16,2 cm."
+    },
+    {
+     "ficheiro": "2017/09/botanicavi-v_0087.jpg",
+     "legenda": "Botânica VI.V., 2014",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 19,9x16,2 cm."
+    },
+    {
+     "ficheiro": "2017/09/botanicavi-v_0084.jpg",
+     "legenda": "Botânica VI.V., 2014",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 19,9x16,2 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturav_0010.jpg",
+     "legenda": "Natura V, 2014",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 32 x 28 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturav_0030.jpg",
+     "legenda": "Natura V, 2014",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 32 x 28 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturav_0014.jpg",
+     "legenda": "Natura V, 2014",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 32 x 28 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturaviii-20x22cm.jpg",
+     "legenda": "Natura VIII, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 20x22 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturaviii-20x22cm_2.jpg",
+     "legenda": "Natura VIII, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 20x22 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturaviii-20x22cm_1.jpg",
+     "legenda": "Natura VIII, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 20x22 cm."
+    },
+    {
+     "ficheiro": "2017/09/plantaei_0053.jpg",
+     "legenda": "Plantae I, 2016",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 31 x 21 cm."
+    },
+    {
+     "ficheiro": "2017/09/plantaei_0054.jpg",
+     "legenda": "Plantae I, 2016",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 31 x 21 cm."
+    },
+    {
+     "ficheiro": "2017/09/plantaei_0046.jpg",
+     "legenda": "Plantae I, 2016",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 31 x 21 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturaevi-22x21-5cm.jpg",
+     "legenda": "Natura VI, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 22x21 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturaevi-22x21-5cm_4.jpg",
+     "legenda": "Natura VI, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 22x21 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturaevi-22x21-5cm_3.jpg",
+     "legenda": "Natura VI, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 22x21 cm."
+    },
+    {
+     "ficheiro": "2017/09/cadernodecampo-29-5x22cm.jpg",
+     "legenda": "Caderno de Campo, 2016",
+     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 30x22 cm."
+    },
+    {
+     "ficheiro": "2017/09/cadernodecampo-29-5x22cm_1.jpg",
+     "legenda": "Caderno de Campo, 2016",
+     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 30x22 cm."
+    },
+    {
+     "ficheiro": "2017/09/cadernodecampo-29-5x22cm_2.jpg",
+     "legenda": "Caderno de Campo, 2016",
+     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 30x22 cm."
+    },
+    {
+     "ficheiro": "2017/09/caderno-i-26x12-5cm1.jpg",
+     "legenda": "Caderno de Campo, 2014",
+     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 26x12,5 cm."
+    },
+    {
+     "ficheiro": "2017/09/flora-37x15cm_1.jpg",
+     "legenda": "Flora, 2014",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 37x15 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturaiv_0101.jpg",
+     "legenda": "Natura IV, 2014",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 26 x 23 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturaiv_0103.jpg",
+     "legenda": "Natura IV, 2014",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 26 x 23 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturaiv_0102.jpg",
+     "legenda": "Natura IV, 2014",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 26 x 23 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturavii_0088.jpg",
+     "legenda": "Natura VII, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 26x21 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturavii_0095.jpg",
+     "legenda": "Natura VII, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 26x21 cm."
+    },
+    {
+     "ficheiro": "2017/09/naturavii_0090.jpg",
+     "legenda": "Natura VII, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 26x21 cm."
+    },
+    {
+     "ficheiro": "2017/09/caderno-i-26x12-5cm1.jpg",
+     "legenda": "Caderno de Campo, 2014",
+     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 26x12,5 cm."
+    },
+    {
+     "ficheiro": "2017/09/caderno-i-26x12-5cm1_1.jpg",
+     "legenda": "Caderno de Campo, 2014",
+     "descricao": "Single folio book, watercolor, china and Sumi ink on watercolor paper, cloth bound, 26x12,5 cm."
+    },
+    {
+     "ficheiro": "2017/09/2014-cadernoii-2.jpg",
+     "legenda": "Caderno II, 2014",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 34 x 17 cm."
+    },
+    {
+     "ficheiro": "2017/09/2014-cadernoii.jpg",
+     "legenda": "Caderno II, 2014",
+     "descricao": "Single folio book, sumi ink and china ink on watercolor paper, cloth bound, 34 x 17 cm."
+    },
+    {
+     "ficheiro": "2017/09/caderno-b-21-5x17cm.jpg",
+     "legenda": "Caderno B, 2014",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 21,5x17 cm."
+    },
+    {
+     "ficheiro": "2017/09/caderno-b-21-5x17cm_1.jpg",
+     "legenda": "Caderno B, 2014",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 21,5x17 cm."
+    },
+    {
+     "ficheiro": "2017-bn-caderno-iv-31x18cm-6.jpg",
+     "legenda": "Caderno IV, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-iv-31x18cm-8.jpg",
+     "legenda": "Caderno IV, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017-bn-caderno-iv-31x18cm-14.jpg",
+     "legenda": "Caderno IV, 2017",
+     "descricao": ""
+    },
+    {
+     "ficheiro": "2017/09/flora-i-16-5x16cm.jpg",
+     "legenda": "Flora I, 2014",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 16,6x16 cm."
+    },
+    {
+     "ficheiro": "2017/09/flora-i-16-5x16cm_1.jpg",
+     "legenda": "Flora I, 2014",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 16,6x16 cm."
+    },
+    {
+     "ficheiro": "2017/09/caderno-a5-17x10-5cm.jpg",
+     "legenda": "Caderno a.5., 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 17x10,5 cm."
+    },
+    {
+     "ficheiro": "2017/09/caderno-a5-17x10-5cm_1.jpg",
+     "legenda": "Caderno a.5., 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 17x10,5 cm."
+    },
+    {
+     "ficheiro": "2017/09/cadernoiii-23-5x22-5cm.jpg",
+     "legenda": "Caderno III, 2014",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 23,5x22,5 cm."
+    },
+    {
+     "ficheiro": "2017/09/cadernoiii-23-5x22-5cm_1.jpg",
+     "legenda": "Caderno III, 2014",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 23,5x22,5 cm."
+    },
+    {
+     "ficheiro": "2017/09/botanica-i-14x15-5cm.jpg",
+     "legenda": "Botânica I, 2014",
+     "descricao": "Sngle folio book, watercolor and china ink on watercolor paper, cloth bound, 14x15,5 cm."
+    },
+    {
+     "ficheiro": "2017/09/botanica-i-14x15-5cm_1.jpg",
+     "legenda": "Botânica I, 2014",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 14x15,5 cm."
+    },
+    {
+     "ficheiro": "2017/09/notas51-13-5x9cm.jpg",
+     "legenda": "Notas 51, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 13,5x9 cm."
+    },
+    {
+     "ficheiro": "2017/09/notas51-13-5x9cm_1.jpg",
+     "legenda": "Notas 51, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 13,5x9 cm."
+    },
+    {
+     "ficheiro": "2017/09/estudosb-21x22cm.jpg",
+     "legenda": "Estudos b, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 21x22 cm."
+    },
+    {
+     "ficheiro": "2017/09/estudosb-21x22cm_1.jpg",
+     "legenda": "Estudos b, 2016",
+     "descricao": "Single folio book, watercolor and china ink on watercolor paper, cloth bound, 21x22 cm."
+    }
+   ],
+   "antigo": "portfolio/biblioteca-natural-i"
+  }
+ ],
+ "itinerancia": [
+  {
+   "slug": "biblioteca-natural-casa-da-cerca",
+   "titulo": "Biblioteca Natural, Casa da Cerca",
+   "data": "2021-07-14",
+   "capa": "IMG_20210724_183027809-scaled.jpg",
+   "resumo": [
+    "Biblioteca Natural<br>curadoria de Filipa Oliveira<br>Sala de Leitura da Casa da Cerca<br>24 de Julho – 24 de Outubro 2021"
+   ],
+   "corpo": [
+    "Biblioteca Natural<br>curadoria de Filipa Oliveira<br>Sala de Leitura da Casa da Cerca<br>24 de Julho – 24 de Outubro 2021",
+    "[[img:CC0721-Convite-Digital-V10-copy.jpeg]]"
+   ],
+   "antigo": "2021/07/14/biblioteca-natural-casa-da-cerca"
+  },
+  {
+   "slug": "coleccao-abismo-na-fundacao-calouste-gulbenkian",
+   "titulo": "Colecção Abismo na Fundação Calouste Gulbenkian",
+   "data": "2021-07-14",
+   "capa": "2021-BA-Livros-artista.jpeg",
+   "resumo": [
+    "Livros de Artista de Artistas Mulheres, <br>curadoria de Ana Barata,<br><a href=\"https://gulbenkian.pt/agenda/livros-de-artista-de-artistas-mulheres/\">https://gulbenkian.pt/agenda/livros-de-artista-de-artistas-mulheres/</a><br>Julho-Setembro 2021"
+   ],
+   "corpo": [
+    "[[img:2021-BA-Livros-artista.jpeg]]",
+    "Livros de Artista de Artistas Mulheres,<br>curadoria de Ana Barata,<br><a href=\"https://gulbenkian.pt/agenda/livros-de-artista-de-artistas-mulheres/\">https://gulbenkian.pt/agenda/livros-de-artista-de-artistas-mulheres/</a><br>26 junho – 20 setembro 2021"
+   ],
+   "antigo": "2021/07/14/coleccao-abismo-na-fundacao-calouste-gulbenkian"
+  },
+  {
+   "slug": "natura-vi-na-exposicao-da-colecao-moderna-do-museu-gulbenkian",
+   "titulo": "Natura VI na Exposição da Coleção moderna do Museu Gulbenkian",
+   "data": "2020-06-29",
+   "capa": "Leitao-gulbenkian.jpg",
+   "resumo": [
+    "Natura VI at the new exhibition at Gulbenkian Museum, May 2019",
+    "<a href=\"https://gulbenkian.pt/biblioteca-arte/livros-de-artista/catarina-leitao/\">https://gulbenkian.pt/biblioteca-arte/livros-de-artista/catarina-leitao/</a>"
+   ],
+   "corpo": [
+    "Coleção Moderna do Museu Gulbenkian",
+    "New display of the Colecção Moderna, Museu Gulbenkian<br>Livros de Artista da Colecção da Biblioteca da Arte, Lisboa, 30/5/2019",
+    "Natura VI, 2016<br>Single folio book, watercolor and china ink on watercolor paper, cloth bound, 22x21 cm.<br>Aguarela e tinta da china s/ papel de aguarela, encadernação em capa dura, revestida a tecido.",
+    "<a href=\"https://gulbenkian.pt/biblioteca-arte/livros-de-artista/catarina-leitao/\">https://gulbenkian.pt/biblioteca-arte/livros-de-artista/catarina-leitao/</a>",
+    "[[img:cam-leitao.jpg]]"
+   ],
+   "antigo": "2020/06/29/natura-vi-na-exposicao-da-colecao-moderna-do-museu-gulbenkian"
+  },
+  {
+   "slug": "natural-library-the-island",
+   "titulo": "Natural Library. The Island.",
+   "data": "2020-06-29",
+   "capa": "BN-A-ilha-01.jpg",
+   "resumo": [
+    "Biblioteca Natural. A Ilha.<br>Sede da Delegação da Madeira da Ordem dos Arquitetos, Funchal<br>09.11.2017 – 30.11.2017"
+   ],
+   "corpo": [
+    "Biblioteca Natural. A Ilha.",
+    "Sede da Delegação da Madeira da Ordem dos Arquitetos, Funchal<br>09.11.2017 – 30.11.2017",
+    "The Island collection was the result of an Artist in residence at Madeira Natural Park / <a href=\"http://www4.uma.pt/cierl/?page_id=1905\">III INSULA International Colloquium. Beyond Nature/Artifice</a> with the support of Secretaria Regional do Ambiente e Recursos Naturais| Instituto das Florestas e Conservação da Natureza. September 2017.",
+    "A colecção A Ilha foi resultado de uma residência artística desenvolvida no Parque Natural da Madeira em setembro de 2017, promovida pelo <a href=\"http://www4.uma.pt/cierl/?page_id=1905\">UMa Cierl</a> em parceria com a Secretaria Regional do Ambiente e Recursos Naturais| Instituto das Florestas e Conservação da Natureza, no âmbito da organização do <a href=\"http://www4.uma.pt/cierl/?page_id=1905\">III INSULA International Colloquium. Beyond Nature/Artifice</a>",
+    "[[img:BN-A-ilha-01-1.jpg]]",
+    "[[img:BN-A-ilha-02.jpg]]",
+    "[[img:BN-A-ilha-03.jpg]]",
+    "[[img:BN-A-ilha-04.jpg]]",
+    "[[img:BN-A-ilha-09.jpg]]",
+    "[[img:BN-A-ilha-11.jpg]]"
+   ],
+   "antigo": "2020/06/29/natural-library-the-island"
+  },
+  {
+   "slug": "natural-library-at-museu-nacional-soares-dos-reis",
+   "titulo": "Natural Library at Museu Nacional Soares dos Reis",
+   "data": "2017-06-29",
+   "capa": "BN-ad-2020-15.jpg",
+   "resumo": [
+    "The Natural Library travelled  to Porto in 2017.<br>It was displayed at the Aurélia de Sousa room at the Museu Soares dos Reis."
+   ],
+   "corpo": [
+    "<strong>Biblioteca Natural II</strong>, curated by Fátima Lambert, Acções estéticas, Museu Nacional Soares dos Reis, Porto, 2017",
+    "The Natural Library travelled  to Porto in 2017. It was displayed at the Aurélia de Sousa room at the Museu Soares dos Reis.",
+    "[[img:BN-ad-2020-11.jpg]]",
+    "[[img:BN-ad-2020-12.jpg]]",
+    "[[img:BN-ad-2020-13.jpg]]",
+    "[[img:BN-ad-2020-14.jpg]]",
+    "[[img:BN-ad-2020-15-1.jpg]]"
+   ],
+   "antigo": "2017/06/29/natural-library-at-museu-nacional-soares-dos-reis"
+  },
+  {
+   "slug": "caixa-de-desenho-biblioteca-natural-ii-pt",
+   "titulo": "Caixa de Desenho + Biblioteca Natural II (PT)",
+   "data": "2017-04-04",
+   "capa": "2017/09/image_028-2_400.jpg",
+   "resumo": [
+    "Texto escrito por Fátima Lambert sobre A Biblioteca Natural <br>no Museu Nacional Soares dos Reis, 2017."
+   ],
+   "corpo": [
+    "por Maria de Fátima Lambert",
+    "Catarina Leitão na Quase Galeria e no Museu Nacional Soares dos Reis",
+    "Preocupa-me a natureza do solo, por isso me imponho certa unidade de flora e fauna, uma ligação mineral, as articulações meteorológicas. Mas a paisagem move-se por dentro e por fora, encaminha-se do dia para a noite, vai de estação para estação, respira e é vulnerável. Ameaça-a o próprio fim de paisagem. Pela ameaça e vulnerabilidade é que ela é viva.<br>Herberto Helder, <cite>Photomaton &amp; Vox</cite>",
+    "«Chemins qui ne mènent nulle part (…)<br>Chemins que l'on dirait avec art (…)<br>Chemins qui souvent n'ontDevant eux rien d'autre en face (…)» (1)",
+    "A minha viagem pelos desenhos de Catarina Leitão foi iniciada em 2006, quando escrevi acerca do que designei por “…the baroque drawings of the contemporary persons, objects or landscapes projected in lands of frightened utopias – Catarina Leitão”. Por então, esses trabalhos visitaram França, Espanha, Itália, Áustria, Lituânia, regressando depois a Portugal, onde foram apresentados no Museu Amadeo Souza-Cardoso [Amarante], cumprido o seu périplo no contexto do Salon de Montrouge – Jeune Création Européene. Tratava-se da instalação composta por 9 desenhos da Série Os personagens, os objetos e as paisagens (2006). Estranhas criaturas, vegetações enigmáticas, objetos alterados que se coadunavam quer às instalações, quer às peças tridimensionais produzidas pela artista durante a sua permanência em Nova Iorque e, obviamente, na cumplicidade à excelência de outras séries de desenhos que a antecederam e lhe sucederiam. As formas híbridas são um tema recorrente na sua obra, consignando morfologias situadas entre topografias ficcionais e a acuidade da observação da natureza que não se pretende, absolutamente nada mesmo, ficar na plataforma descomprometida da paisagem inventada apenas para fruição estética. O seu trabalho assumiu, desde sempre, um compromisso não apenas designativo, apontando para [e de] uma intencionalidade artística, mas propugnando pela intervenção deliberativa, concretizada pela rotina perseverante e disciplinada de uma vida como todo.",
+    "A etapa seguinte prosseguiu em 2011, traduzindo-se da grande instalação da Série Invasive Species, montada na Casa das Artes de Vigo, integrada no programa de exposições-curadorias, prolongamento na Galiza, da XVI Bienal Internacional de Cerveira.<br>Os desenhos “suspensos” haviam viajado desde o Palácio do Marquês / Carpe Diem – Arte e Pesquisa em Lisboa, onde tinham sido mostrados no ano anterior. A propósito da sua participação na exposição Arqueologia do Detalhe, transcrevo: “Os desenhos apresentam-se “suspensos”, entrelaçando percursos que nos permitem visitá-los. Geram-se assim percursos “abertos” que a cada visitante cabe dirigir. Existem intervalos de espaço entre os desenhos que pendem, possibilitando ao público a melhor condição para exercer os seus atos de observação e contemplação. A proximidade aos desenhos pintados propicia a descoberta de minuciosas iconografias que dispõem para formas orgânicas – da flora, para a reconformação de objetos sem funcionalidade pensada e para grafismos geométricos ganhando volumetria através da perspectiva e da densidade de cor. Os diminutos pesos que garantem a estabilidade dos desenhos são quase um olhar de pausa que podemos fixar. Como se o peso da realidade quisesse ver-se superior a toda capacidade de exercer os actos do imaginário: “…apresenta uma instalação, com desenhos sobre papel, sequência da sua investigação sobre questões relacionadas com a natureza e o espaço construído. Invasive species estabelece um diálogo com o Palácio [do Marquês de Pombal] e convida o espectador a observar e deambular por um universo desenhado, com perfurações, sombras, máquinas impossíveis e cores, criando um espaço de vivência sensorial.” (Paulo Reis in Invasive Species).",
+    "Os desenhos pintados são protagonistas contemporâneos, são objectos e paisagens, escolhidos com acuidade e rigor pela artista que assim revela uma metodologia poiética na concretização da obra como todo, cuja uniformidade é adquirida através da heterogeneidade morfológica e criterial. A fundamentação conceitual traduz-se em excertos seleccionados e revelados do seu Umwelt: quer sejam alusivos a antropomorfias, zoomorfias ou espécies imaginárias fugidas da botânica ou da mineralogia…são utopias projectadas em paisagens de papel. Os desenhos agudizam a contemplação, num vaivém de sinuosa verticalidade que induzem ao congelamento do ver, estacando em unidades dessa “Contemplação do mundo” a que aludiu Michel Maffesoli e instaurando jornadas, mapeamentos numa variante desse “Atlas de Emoções” assinalado por Giuliana Bruno.”",
+    "Após um hiato, colmatado pela presença de desenhos de Catarina Leitão, em duas exposições coletivas – respetivamente Passeante no Mundo [1] e Drawing Again [2] (2011 e 2012), realizadas igualmente na Quase Galeria, surge agora a ocasião de abordar, de preencher - “quase” na íntegra – esse mesmo espaço com a exposição intitulada Caixa de Desenho.<br>A presença da obra da artista no Porto, em 2017, estende-se ao Museu Nacional de Soares dos Reis, mediante a incorporação provisória na Sala de Aurélia de Sousa, de Biblioteca no Museu. Aí, as peças concebidas pela desenhista podem ser analisadas, na qualidade de “quase relíquias” dentro de uma vitrina antiga, mobiliário usada muitas décadas atrás para expografias em Museus nacionais. Esta vitrina divide-se, apresentando divisões em simetria inclinada, onde se anicham elementos de desenho minuciosos e exíguos de excesso. À distância, mantêm-se as subtilezas rigorosas do detalhe e da arqueologia, dirigindo a excelência do desenho. O desenho que é a matriz.",
+    "Quando da coletiva Drawing Again, inaugurada em julho de 2012, tomei como epígrafe “…(chamo silêncio à linguagem-que-já-não-é-orgão-de-nada)…”[ d’après Pascal Quignard in Histórias de Amor de outros tempos]. Esta frase do escritor francês que tanto nos apela ao silêncio, pois que o ruído se supõe e reverbera, ecoando. Logo no início do texto que introduzia as obras apresentadas assinalei que “O desenho, na contemporaneidade e no presente, assumiu uma autonomia, à semelhança do sucedido com disciplinas científicas, como foi caso, da estética relativamente à filosofia. O desenho deixou de ser considerado como fase intermedial ou preparatória para concretizar uma expressão artística finalizadora. Os artistas, ao longo do século XX, “descobriram” o desenho, muito em particular – e na perspetiva emancipatória, depois dos anos 1950.” Penso que estas afirmações enquadram a natureza do trabalho resiliente e rigoroso de Catarina Leitão. Os seus desenhos são morfologias vegetais, razoabilidades antropomorfizadas que extrapolam esteticismos e, ainda, que solidificam convicções “etnofocadas” e causas societárias. A natureza presentifica-se na composição quase vazia, remetendo ao essencial que, nalguns casos, precisa de ser segmento e situar-se isolado, para melhor explicitar as suas idiossincrasias maiores.",
+    "“Drawing is often characterized as the most intimate art form.” (2)",
+    "A aproximação física ao desenho, para melhor o observar direciona para uma intimidade que não somente a de quem o realizou. As dimensões e técnicas, tanto quanto os seus conteúdos iconográficos (e semânticos) determinam a colocação, a postura, tudo aquilo que um corpo exige para olhar em detalhe e pormenor ou em distanciamento e perspetiva. O desenho implica, assim, uma ação por parte do espetador, tornando-o protagonista de um ato de conhecimento singularizado. O desenho constrói, por assim dizer, identidades diferenciadas perante uma mesma proposta gráfica. Ou seja, o desenho rege a constituição de uma linha de movimento do corpo do espetador, sua cativação e sequencialidade no ato de ver. [« J’ai découvert que dessiner n’était pas seulement/regarder, mais aussi toucher. » Jan Fabre] Neste sentido, “ver” um desenho será efetivamente “desenhar”, pelo movimento do corpo próprio (do espetador), um ato único de perceção visual.<br>O desenho persiste e consolida mais e mais a sua urgência na contemporaneidade, tendo absorvido as distintas aceções e escopos que lhe advêm da história. Sabe-se quanto o desenho se tornou moda em alguns nichos de criação artística, associado quer à formação em contexto de ensino artístico, quer articulado a outros suportes e registos, organizando cruzamentos artísticos inesperados, por vezes. A investigação académica sobre o desenho viaja entre territórios, progredindo para uma melhor apreensão da sua polimorfia, energia e conceitualidade expandidas. As práticas artísticas contemporâneas não conseguem escapar ao desenho.",
+    "O conceito de desenho, em algumas abordagens, encontra-se associado não apenas ao espaço (na sua suposta abstração ou efetividade) mas a localizações tipológicas. Conhecemos, a título de exemplo e ao longo de anos, os lugares de desenho (Fundação Júlio Resende), gabinetes de desenho (Pedro Saraiva), laboratórios de desenho (Susanne Themlitz), para mencionar apenas alguns. Sucedem-se e extrapolam-se antevidências metamórficas sobre a realidade, convertem-se as visões filosóficas do mundo em algo tangível pelo desenho.",
+    "Porque não ter a minha casa, a minha sala de estar com vista para este palmo de terra, em vez de um fraco conjunto de curiosidades, um pobre pretexto para a Natureza e para a Arte a que chamo o meu pátio da frente?(3)",
+    "No caso de Catarina Leitão, o desenho organiza a sua paisagem, domesticando-a e reatribuindo-lhe a condição de ser natureza. Ou seja, a artista escolheu um lugar para viver/residir que lhe permite a maior coerência entre uma atuação em plena consciência de natureza e de antevisão de desenho. O desenho é cultivado na terra e germina no papel, nos fios, nos dispositivos ou nos livros de artista que concebe e realiza. Tudo está em tudo, diria Hermes Trimesgisto.",
+    "O desenho [com] que Catarina Leitão aborda [n]o espaço transporta a mestria lúcida que Francisco de Holanda nos legou, traduz-se na assunção crítica e na sofisticada acuidade. Caraterísticas e qualidades do debuxador transformam com minúcia o que se vê; abordam, com raridade virtuosa de pensamento, a atitude subjacente à sua consecução. Agrega conhecimentos específicos, cúmplices e parceiros de ciências e técnicas que acompanham os movimentos do humano individuado e gregário, na cronologia e na efemeridade transversa.<br>Mediante a conceção e práxis do desenho, comunica-se, pensa-se, sente-se através do desenho que simples ou complexo é antegráfico, parafraseando Almada Negreiros – linguagem visual anterior à escrita. Subjaz em quase todos os entendimentos, configura as atuações e atividades expressivas, preenche as notações musicais ou coreográficas, esquematiza, enuncia e diagrama as maiores complexidades de cálculo – singelo ou hermético. Possui uma vitalidade que brotará em terrenos impossíveis de cultivar, em levitações de quotidiano, facilitando a condição de existir, tornando mais leve “esse peso giacomettiano que é a vida”, como diria Paulo Reis(4).",
+    "Quem senão o Anjo Caído teria gritado “Alto lá” à humanidade? (5)",
+    "Neste ano de 2017 celebram-se os 200 anos de Henri Thoreaux. No seu livrinho emblemático Caminhando, o pensador norte-americano, questionava-se porque e onde estivesse a literatura que abordasse, que expressasse a Natureza, queixando-se de a ver ausentada.(6) Fala-nos acerca da sofreguidão inconsequente (?) com que pretendem atingir da Natureza, glosando paradigmas poéticos que são seus, e outros não anteviram ou acharam. Assim, Henry Thoreau constata e partilha o que possa ser o desfecho civilizacional. Na medida em que se considere quanto as artes influenciam e, paralelemente, sobrevêm da atitude, postura ou convicção que cada um delibere seguir, perante e quanto à Natureza, assinalando que “…todos os homens sentem uma atracção por algo que os impele para a sociedade, poucos se sentem atraídos pela Natureza.” (7)",
+    "A natureza cresce dentro de casa, dentro do ateliê, subvertendo as orientações mais impensadas da sociedade atual. A natureza sedentariza-se, lembrando Michel Mafesolli, quando a propósito do que designou por “violência totalitária”, comenta:<br>“Violência feita às pessoas, violência feita à natureza. Violência que pode ser temperada mas que nem por isso é menos real. (…) pode-se dizer que a domesticação está na passagem do nomadismo para o sedentarismo.” (8)<br>Sabendo como a vida e a obra de Catarina Leitão se interpenetram, por via da sua inscrição na Natureza, o autor oitocentista surge como uma figura tutelar para a explanação do seu pensamento, mediante uma pragmática da atitude e ação artística, em prol de um escopo que é acionado pela estética e filosofia comprometida com a utopia em vias de ser concretizada per se. Assim se compreende que na caixa de desenho se guardem inúmeras possibilidades de redimir o mundo, pela cautela da Natureza: natura naturans e natura naturata.<br>A sua realidade é real, é ficcional, é – tendencialmente – abstrata, na medida em que radica na essencialidade última do desenho.",
+    "Como se adiantou antes, as obras guardadas na vitrina antiga, colocada na Sala de Aurélia de Sousa no Museu Nacional Soares dos Reis, reverberam efabulações tratadas a partir do estudo acurado, da pesquisa insaciada e das condições de exigência que a artista se coloca no terreno.",
+    "Na Sala, os desenhos-estudos de Catarina Leitão, saem dos livros organizados nas estantes pintadas no quadro O vestido Verde, da pintora portuense, cujos 150 anos de nascimento se comemoraram em 2016, tendo por essa ocasião a tela sido adquirida para a Coleção do MNSR. Também se acompanha das cenas de interior, autoria de Sofia de Sousa ou, ainda da representação da mulher do pintor Artur Loureiro, que foi retratada na sua condição de pintora, ainda que quase desconhecida essa sua prática. Curiosa portanto esta transposição de tempos, onde a assunção da artisticidade, cumprida pela mulher artista se impõe, sem que se senão como sendo ARTE.",
+    "Entre alguma invisibilidade de razões conducentes de problemáticas societárias, tanto quanto estéticas, o nomadismo que, por vezes, parece determinar as sinuosidades quase labirínticas de alguns desenhos, as formulações arquetípicas de outros – consignadas ou subsumidas à tradição do desenho científico, encontram destino consequente na Biblioteca Natural II que se instala no Museu. A Biblioteca no Museu… diria eu…feita de desenho, feita de natureza que, em espiral, decifra o atravessamento do espaço e do tempo, guardando-os como relíquias, detalhes, lembrando Daniel Arasse.",
+    "Os livros de artistas aconchegam os desenhos, outorgando-lhe uma tridimensionalidade inesperada mas quieta. A tranquilidade das formas que se sabem a existir no contorno, no recorte e no delineamento certos, transitam pelo nosso olhar surpreendido, quase incrédulo perante uma beleza que é, simultaneamente, perturbante – como talvez seja toda beleza, desde que os gregos lhe conferiram o dom da inquietude e do pathos. Talvez seja estranho, irregular, o facto de sedentarizar numa mesma obra que é um livro, essa dupla vivência consignada em tormentos de sublimidade e agrado ao gosto. As referências conduzem-nos ao espanto que nos é familiar, ao relembrar os livros de infância que se desprendiam da superfície lisa, irrompendo em meio do nosso riso ou talvez insinuando o medo.",
+    "“A paisagem em volta esvaziada de sentido, reflectindo-se nos meus olhos, brotava dentro de mim…” (9)",
+    "Os cadernos-livros-de-artista apresentados pela desenhista jogam com a mesma corporalidade, com a fisicalidade das matérias dúcteis que foram ocupar a sala da Quase Galeria. Se nessa Sala, o espaço se contornava entre vazios barrocos e traçados geométricos, a justeza centrava-se na organicidade das morfologias, nos livros dentro da vitrina, segura-se uma ficcionalidade que é incontrolável e nos confirma as razões de Gilbert Durand quando assinalava as estruturas antropológicas do imaginário… Fica provado como das mãos saem linhas bidimensionais, se dobram papéis convictos e esculpem matérias moles, tecidos que se adiantem pelo espaço adentro como se fossem parte de uma tela maior que a escala humana, para que nela exatamente cada um de nós caiba e seja a figura na natureza com o perigo de que esta se continue em paisagem mental, quando a deixarmos no nosso trajeto.",
+    "“A duração não aliena,<br>leva-me ao caminho certo.”(10)",
+    "A duração ou o instante serão apenas um singelo pormenor dúbio; a demora será domesticada pelas espécies invasivas que Catarina Leitão recolhe delicadamente, aguçando-lhes o perigo.<br>Relembrando Xavier de Meistre: “a imaginação perde-se em caminhos silenciosos deste país ideal; os longínquos azulados confundem-se com o céu, e toda a paisagem, repetindo-se nas águas de um rio tranquilo, constitui um espectáculo que língua alguma pode escrever.”(11)",
+    "Maria de Fátima Lambert<br>Abril 2017",
+    "Texto na brochura da<br>Exposição na Quase Galeria/Espaço T<br>e Intervenção no Museu Nacional de Soares dos Reis<br>curadoria Maria De Fátima Lambert<br>produção Quase Galeria/ Espaço T: Leonel Morais<br>organização Museu Nacional Soares dos Reis: Maria João Vasconcelos<br>produção Museu Nacional Soares dos Reis: Jaime Guimarães",
+    "1 Rainer Marie Rilke, « Chemins qui ne mènent nulle part », Les Quatrain Valaisans.<br>2 Ian Berry and Jack Shear, « Introduction », Twice Drawn – Moderna and contemporary Drawings in context, The Francis Young Tang Teaching Museum and Art Gallery at Skidmore College and Prestel Verlag, Munich, London, N.Y., 2011, p.9.<br>3 Henry David Thoreaux, Caminhando, Lisboa, Antígona, 2012, p.50.<br>4 Paulo Reis (Maragogipe/Bahia, 1960- Lisboa, 2011) foi fundador e diretor de Carpe Diem – Arte e Pesquisa, Lisboa.<br>5 Henry David Thoreaux, Caminhando, Lisboa, Antígona, 2012, p.62.<br>6 Henry David Thoreaux, Caminhando, Lisboa, Antígona, 2012, p.57.<br>7 Henry David Thoreaux, Caminhando, Lisboa, Antígona, 2012, p.73.<br>8 Michel Maffesoli, Sobre o Nomadismo, Rio de Janeiro, Record, 2001, p. 24.<br>9 Yukio Mishima, O templo dourado, Lisboa, Assírio &amp; Alvim, 1985, p.149.<br>10 Peter Handke, Poema à duração, Lisboa, Assírio &amp; Alvim, 2002, p.77.<br>11 Xavier de Meistre, Viagem à roda do meu quarto, Lisboa, &amp; etc, 2002, p.33."
+   ],
+   "antigo": "2017/04/04/caixa-de-desenho-biblioteca-natural-ii-pt"
+  },
+  {
+   "slug": "o-armario-2016",
+   "titulo": "O Armário, 2016",
+   "data": "2016-09-30",
+   "capa": "2017/09/catarina-leitacc83o-montagem-33.jpg",
+   "resumo": [
+    "Natural Library at O Armário<br>Biblioteca Natural n'O Armário,<br>Lisboa, 2016"
+   ],
+   "corpo": [
+    "Natural Library at O Armário, 2016",
+    "<strong>Biblioteca Natural</strong> n'O Armário, Lisboa, 2016",
+    "[[img:2017/09/catarinaleitao-armario-2.jpg]]",
+    "[[img:2017/09/catarina-leitacc83o-montagem-33.jpg]]",
+    "[[img:2017/09/catarinaleitao-armario-10.jpg]]",
+    "[[img:2017/09/catarinaleitao-armario-11.jpg]]",
+    "[[img:2017/09/catarinaleitao-armario-15.jpg]]",
+    "[[img:2017/09/catarinaleitao-armario-14.jpg]]",
+    "[[img:2017/09/catarinaleitao-armario-13.jpg]]",
+    "[[img:2017/09/catarinaleitao-armario-12.jpg]]",
+    "[[img:2017/09/catarinaleitao-armario-4.jpg]]"
+   ],
+   "antigo": "2016/09/30/o-armario-2016"
+  },
+  {
+   "slug": "biblioteca-natural-pt2",
+   "titulo": "Biblioteca Natural. Texto.",
+   "data": "2016-07-10",
+   "capa": "2017/09/catarinaleitao-armario-1.jpg",
+   "resumo": [
+    "Texto acerca da Biblioteca no Armário.<br>Escrito por alguém entre o José Roseira e a Catarina Leitão, em Março de 2016."
+   ],
+   "corpo": [
+    "[[img:2017/09/catarinaleitao-armario-2.jpg]]",
+    "[[legenda:Biblioteca Natural no Armário]]",
+    "A sala é o armário / o armário a biblioteca.<br>A biblioteca é o livro / o livro o armário.",
+    "O livro abre / o desenho expande.<br>O desenho abre / o armário expande.",
+    "Artefactos factícios, estes livros/elementos desta Biblioteca Natural fazem parte de um mundo hipostático construído por uma personagem-autora. A exploração continuada da fina (?) membrana que separa o dentro do fora, o eu e o outro, o humano e o não-humano, a investigação das tensões exoráveis que atribuímos às dualidades natural/artificial e ideia/forma suscitam a suspeita de que não há nada que tenha nome ou representação que não tenha já sido domesticado pela força combinada das nossas imaginações. O armário e o vestido, o que guarda e o que reveste, são também as nossas ferramentas de contacto. Através deles definimos a nossa forma e o seu negativo. Abri-los, despi-los, é também interiorizar o que está fora. O livro é absorvente.",
+    "Também absorventes, e personagens recorrentes, as manchas/volumes negros que povoam estes desenhos incluem-se num conjunto de estratégias formais utilizadas para explorar a relação entre superfície e volume, entre desenho e escultura. Servindo o mesmo propósito, o livro tridimensional traz consigo os três momentos da instalação: um inicial, de repouso e portabilidade (fechado, bidimensional), o acto performativo (abrir, instalar), e o corpo expandido (aberto, tridimensional). Num processo de replicação do está nele contido, a abertura do armário desencadeia uma ocupação da sala com elementos que se projectam a partir do universo representado nos livros da Biblioteca Natural. Exteriorizados, estes mesmos elementos são multiplicados por seis pontos de luz, acrescentando uma nova camada ao desenho, densificando-o.",
+    "O conteúdo dos livros, variando entre o código, o corriqueiro e o quimérico, é também definido por esta ideia de tensão entre dois estados. Algures entre o natural e o artificial, as formas híbridas que os povoam sugerem um processo avançado de miscigenação ou indiferenciação entre as duas categorias. Se nestes desenhos podemos identificar a marca de uma colonização humana do natural, a citação dos primórdios da Botânica permite-nos também supor um processo inverso e ler neste trabalho a suspeita de uma ocupação natural das formas que aprendemos a considerar artefactuais.",
+    "Documentos do entre, esta biblioteca e este armário existem no território definido por estas dicotomias: o cruzamento entre o real e o ficcional, entre o mundo físico e o mundo das ideias, entre a autoridade do arquivo e o delírio do criador.",
+    "Este texto foi escrito por alguém entre o José Roseira e a Catarina Leitão, em Março de 2016",
+    "[[img:2017/09/catarinaleitao-armario-3.jpg]]",
+    "[[legenda:Biblioteca Natural no Armário]]"
+   ],
+   "antigo": "2016/07/10/biblioteca-natural-pt2"
+  },
+  {
+   "slug": "a-saltar-do-livro-livros-pop-up",
+   "titulo": "Biblioteca Nacional Lisboa",
+   "data": "2016-06-29",
+   "capa": "BN-saltar1.jpg",
+   "resumo": [
+    "Botânica VI.V. was included in an exhibition of Pop-up books: <br>A saltar do livro. Livros Pop-Up.<br>Biblioteca Nacional, Lisboa, 2016."
+   ],
+   "corpo": [
+    "A saltar do livro. Livros Pop-Up.<br>Exhibition of Pop-up books. Biblioteca Nacional, Lisbon, 2016.<br>Botânica VI.V., 2014, was part of this exhibition and shared a vitrine with <a href=\"https://catarinaleitao.net/portfolio/uplift/\">Uplift</a> by Catarina Leitão.",
+    "A saltar do livro. Livros Pop-Up, curated by Catarina Figueiredo Cardoso and André Garcia Pimenta,  Biblioteca Nacional, Galeria do auditório, Lisboa, 2016.",
+    "[[img:BN-saltar1.jpg]]",
+    "[[legenda:On the left: Botânica VI.V.; on the right: Uplift by Catarina Leitão]]",
+    "<a href=\"http://www.bnportugal.gov.pt/index.php?option=com_content&amp;view=article&amp;id=1154%3Aexposicao-a-saltar-do-livro-uma-exposicao-de-livros-pop-up-17-maio-9-set-16&amp;catid=166%3A2016&amp;Itemid=1178&amp;lang=pt\">http://www.bnportugal.gov.pt/index.php?option=com_content&amp;view=article&amp;id=1154%3Aexposicao-a-saltar-do-livro-uma-exposicao-de-livros-pop-up-17-maio-9-set-16&amp;catid=166%3A2016&amp;Itemid=1178&amp;lang=pt</a>"
+   ],
+   "antigo": "2016/06/29/a-saltar-do-livro-livros-pop-up"
+  },
+  {
+   "slug": "casa-museu-medeiros-de-almeida",
+   "titulo": "Casa Museu Medeiros de Almeida",
+   "data": "2016-02-29",
+   "capa": "BN-CasaMedeirosA_1-web.jpg",
+   "resumo": [
+    "The Natural Library at Casa Museu Medeiros de Almeida in 2016."
+   ],
+   "corpo": [
+    "Plano de Acção, curated by Renata Costa<br>Casa Museu Medeiros de Almeida, Lisbon, 2016.",
+    "[[img:BN-CasaMedeirosA_1-web.jpg]]",
+    "[[img:BN-CasaMedeirosA-web.jpg]]"
+   ],
+   "antigo": "2016/02/29/casa-museu-medeiros-de-almeida"
+  },
+  {
+   "slug": "biblioteca-natural-man-power",
+   "titulo": "Biblioteca Natural no Festival Man Power",
+   "data": "2014-06-29",
+   "capa": "Cadernos-montra_f-web-feature.jpg",
+   "resumo": [
+    "Biblioteca Natural was invited to participate in a street festival in Lisbon, 2014. The collection was small and at its begining. It took the window of a second hand book shop on a  street of an historical neighbourhood in Lisbon."
+   ],
+   "corpo": [
+    "Biblioteca Natural was invited to participate in a street festival in Lisbon, 2014. The collection was small and at its begining. It took the window of a second hand book shop on a  street of an historical neighbourhood in Lisbon.",
+    "[[img:feature-Cadernos-montra_10-web.jpg]]",
+    "[[legenda:Biblioteca Natural, December 2014<br>Rua Poço dos Negros, Lisboa]]",
+    "<a href=\"https://anafrancisca.pt/portfolio/manpower-2014/\">https://anafrancisca.pt/portfolio/manpower-2014/</a>"
+   ],
+   "antigo": "2014/06/29/biblioteca-natural-man-power"
+  }
+ ]
+}

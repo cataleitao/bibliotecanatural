@@ -1,0 +1,159 @@
+/* Natural Library | Biblioteca Natural — catarinaleitao.net
+   Tipos: Inconsolata (texto) e Unica One (títulos), como no site anterior. */
+@import url("../fonts/fonts.css");
+
+:root {
+  --fundo: #f3f3ef;
+  --papel: #ffffff;
+  --rodape: #eeeeec;
+  --tinta: #2b2b29;
+  --cinza: #77776f;
+  --linha: #e4e4de;
+  --verde: #00b19e;
+  --verde-escuro: #00806f;   /* para texto pequeno: contraste suficiente em fundo branco */
+  --t-base: 0.95rem;
+  --margem: clamp(1rem, 4vw, 2.875rem);
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--fundo);
+  color: var(--tinta);
+  font: 400 var(--t-base)/1.6 "Inconsolata", ui-monospace, Menlo, Consolas, monospace;
+  letter-spacing: 0.02em;
+}
+img { display: block; max-width: 100%; height: auto; }
+a { color: var(--verde-escuro); text-decoration-thickness: 1px; text-underline-offset: 0.2em; }
+a:hover { color: var(--tinta); }
+:focus-visible { outline: 2px solid var(--verde); outline-offset: 3px; }
+cite { font-style: italic; }
+
+.visualmente-oculto {
+  position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); white-space: nowrap;
+}
+
+/* moldura: papel branco sobre fundo claro, como no site anterior */
+.moldura {
+  background: var(--papel);
+  margin: clamp(0px, 2vw, 1.5rem) clamp(0px, 2vw, 1.5rem) 0;
+  padding: 0 var(--margem) 4rem;
+  min-height: 70vh;
+}
+.topo {
+  display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between;
+  gap: 0.75rem 2rem;
+  padding: clamp(1.5rem, 5vw, 3.5rem) 0 clamp(1.5rem, 4vw, 3.5rem);
+}
+.marca {
+  color: var(--verde); text-decoration: none;
+  font-size: clamp(1.35rem, 3.2vw, 2.1rem); line-height: 1.2; letter-spacing: 0.03em;
+}
+.marca:hover { color: var(--verde-escuro); }
+.topo nav { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+.topo nav a { color: var(--verde-escuro); text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid transparent; }
+.topo nav a:hover, .topo nav a[aria-current="page"] { border-bottom-color: currentColor; }
+
+h1, h2, .cartao .titulo {
+  font-family: "Unica One", "Inconsolata", sans-serif;
+  font-weight: 400; text-transform: uppercase; letter-spacing: 0.06em;
+  line-height: 1.25; color: var(--tinta);
+}
+h1 { font-size: 1.35rem; margin: 0 0 1.5rem; }
+h2 { font-size: 1.15rem; margin: 0 0 0.6rem; }
+h2 a { color: inherit; text-decoration: none; }
+h2 a:hover { color: var(--verde-escuro); }
+
+/* o inglês em cinza, o português em tinta, como no site anterior */
+p[lang="en"], .en p { color: var(--cinza); }
+p { margin: 0 0 0.9em; }
+
+figure { margin: 0; }
+figcaption { margin-top: 0.6rem; font-size: 0.85rem; line-height: 1.5; }
+.grande { margin: 0 0 2.25rem; }
+.grande a, .mini a { display: block; cursor: zoom-in; }
+
+/* início */
+.inicio { display: grid; gap: 2.5rem; }
+.inicio .texto { max-width: 36rem; }
+.inicio .pt { margin-top: 2.5rem; }
+@media (min-width: 52rem) {
+  .inicio { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 4rem; align-items: start; }
+}
+
+/* catálogo: colunas com as capas no seu formato */
+.catalogo { columns: 1; column-gap: 2rem; }
+@media (min-width: 36rem) { .catalogo { columns: 2; } }
+@media (min-width: 60rem) { .catalogo { columns: 3; } }
+.cartao { display: block; break-inside: avoid; margin: 0 0 2.5rem; text-decoration: none; color: var(--tinta); }
+.cartao img { width: 100%; transition: opacity .2s; }
+.cartao:hover img { opacity: .85; }
+.cartao .titulo { display: block; margin-top: 0.9rem; font-size: 1.1rem; }
+
+/* página de colecção: texto ao lado, grelha de livros */
+.colecao { display: grid; gap: 2.5rem; }
+.lateral { max-width: 36rem; }
+.lateral p { font-size: 0.9rem; }
+@media (min-width: 56rem) {
+  .colecao { grid-template-columns: minmax(15rem, 1fr) minmax(0, 2.4fr); gap: 3.5rem; align-items: start; }
+  .lateral { position: sticky; top: 1.5rem; }
+}
+.grelha, .galeria { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; }
+@media (min-width: 40rem) { .grelha, .galeria { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.mini { background: #f6f6f4; }
+.mini img { width: 100%; aspect-ratio: 1; object-fit: cover; }
+.mini figcaption { margin: 0; padding: 0.55rem 0.7rem 0.65rem; font-size: 0.82rem; }
+.galeria { margin: 0 0 2.25rem; }
+
+/* itinerância */
+.lista { display: grid; gap: 2.5rem; max-width: 60rem; }
+.entrada { display: grid; gap: 1rem; }
+.entrada p { font-size: 0.85rem; color: var(--cinza); margin-bottom: 0.4em; }
+@media (min-width: 40rem) {
+  .entrada { grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); gap: 1.75rem; }
+}
+.entrada .foto img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; transition: opacity .2s; }
+.entrada .foto:hover img { opacity: .85; }
+
+.post { max-width: 50rem; }
+.post p { max-width: 42rem; }
+.voltar { margin-top: 3rem; }
+
+/* rodapé */
+.rodape {
+  background: var(--rodape);
+  margin: 0 clamp(0px, 2vw, 1.5rem) clamp(0px, 2vw, 1.5rem);
+  padding: 2.5rem var(--margem);
+  text-align: center; color: var(--cinza); font-size: 0.85rem;
+}
+.rodape p { margin: 0.4rem 0; }
+.rodape a { color: var(--cinza); }
+.rodape a:hover { color: var(--tinta); }
+
+/* lupa (imagem ampliada) */
+.lupa {
+  border: 0; padding: 0; margin: 0; width: 100vw; height: 100dvh; max-width: none; max-height: none;
+  background: rgba(255, 255, 255, 0.97); color: var(--tinta);
+}
+.lupa::backdrop { background: rgba(255, 255, 255, 0.9); }
+.lupa[open] { display: flex; align-items: center; justify-content: center; }
+.lupa figure { display: flex; flex-direction: column; align-items: center; max-width: calc(100vw - 7rem); max-height: 100dvh; padding: 3rem 0 1.5rem; }
+.lupa img { max-height: calc(100dvh - 9rem); width: auto; max-width: 100%; object-fit: contain; }
+.lupa figcaption { text-align: center; max-width: 40rem; }
+.lupa figcaption .descricao { display: block; color: var(--cinza); }
+.lupa button {
+  position: absolute; background: none; border: 0; cursor: pointer; color: var(--tinta);
+  font: 300 2.5rem/1 "Inconsolata", monospace; padding: 0.5rem 0.9rem;
+}
+.lupa button:hover { color: var(--verde-escuro); }
+.lupa .fechar { top: 0.5rem; right: 0.5rem; }
+.lupa .anterior { left: 0.25rem; top: 50%; transform: translateY(-50%); }
+.lupa .seguinte { right: 0.25rem; top: 50%; transform: translateY(-50%); }
+@media (max-width: 40rem) {
+  .lupa figure { max-width: 100vw; padding: 3.5rem 0.75rem 4.5rem; }
+  .lupa .anterior, .lupa .seguinte { top: auto; bottom: 0.5rem; transform: none; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+.lupa figure:focus { outline: none; }
